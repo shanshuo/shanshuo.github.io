@@ -1,0 +1,5704 @@
+{
+  "lines": {
+    "EW": [
+      {
+        "stationName": "Pasir Ris",
+        "stationCode": "EW1  CR5  CP1",
+        "towards": "Pasir Ris / Changi Airport",
+        "escalators": [
+          "7",
+          "18"
+        ],
+        "twdLine": [],
+        "stairs": [
+          "7",
+          "18"
+        ],
+        "lifts": [
+          "13"
+        ]
+      },
+      {
+        "stationName": "Tampines",
+        "stationCode": "EW2 – DT32",
+        "towards": "Pasir Ris / Changi Airport",
+        "escalators": [
+          "7",
+          "18"
+        ],
+        "twdLine": [
+          "DT:",
+          "7"
+        ],
+        "stairs": [
+          "18"
+        ],
+        "lifts": [
+          "14"
+        ]
+      },
+      {
+        "stationName": "Tampines",
+        "stationCode": "EW2 – DT32",
+        "towards": "Tuas Link",
+        "escalators": [
+          "7",
+          "18"
+        ],
+        "twdLine": [],
+        "stairs": [
+          "7"
+        ],
+        "lifts": [
+          "11"
+        ]
+      },
+      {
+        "stationName": "Simei",
+        "stationCode": "EW3",
+        "towards": "Pasir Ris / Changi Airport",
+        "escalators": [
+          "7",
+          "18"
+        ],
+        "twdLine": [],
+        "stairs": [
+          "7",
+          "18"
+        ],
+        "lifts": [
+          "12"
+        ]
+      },
+      {
+        "stationName": "Simei",
+        "stationCode": "EW3",
+        "towards": "Tuas Link",
+        "escalators": [
+          "7",
+          "18"
+        ],
+        "twdLine": [],
+        "stairs": [
+          "7",
+          "18"
+        ],
+        "lifts": [
+          "13"
+        ]
+      },
+      {
+        "stationName": "Tanah Merah",
+        "stationCode": "EW4  CG",
+        "towards": "Pasir Ris / Changi Airport",
+        "escalators": [
+          "7",
+          "18"
+        ],
+        "twdLine": [],
+        "stairs": [
+          "7",
+          "18"
+        ],
+        "lifts": [
+          "13"
+        ]
+      },
+      {
+        "stationName": "Tanah Merah",
+        "stationCode": "EW4  CG",
+        "towards": "Tuas Link",
+        "escalators": [
+          "7",
+          "18"
+        ],
+        "twdLine": [],
+        "stairs": [
+          "7",
+          "18"
+        ],
+        "lifts": [
+          "12"
+        ]
+      },
+      {
+        "stationName": "Bedok",
+        "stationCode": "EW5",
+        "towards": "Pasir Ris / Changi Airport",
+        "escalators": [
+          "7",
+          "18"
+        ],
+        "twdLine": [],
+        "stairs": [
+          "7"
+        ],
+        "lifts": [
+          "12"
+        ]
+      },
+      {
+        "stationName": "Bedok",
+        "stationCode": "EW5",
+        "towards": "Tuas Link",
+        "escalators": [
+          "7",
+          "18"
+        ],
+        "twdLine": [],
+        "stairs": [
+          "7",
+          "18"
+        ],
+        "lifts": [
+          "13"
+        ]
+      },
+      {
+        "stationName": "Kembangan",
+        "stationCode": "EW6",
+        "towards": "Pasir Ris / Changi Airport",
+        "escalators": [
+          "3",
+          "13"
+        ],
+        "twdLine": [],
+        "stairs": [
+          "3",
+          "13"
+        ],
+        "lifts": [
+          "7"
+        ]
+      },
+      {
+        "stationName": "Kembangan",
+        "stationCode": "EW6",
+        "towards": "Tuas Link",
+        "escalators": [
+          "12",
+          "22"
+        ],
+        "twdLine": [],
+        "stairs": [
+          "12",
+          "22"
+        ],
+        "lifts": [
+          "18"
+        ]
+      },
+      {
+        "stationName": "Eunos",
+        "stationCode": "EW7",
+        "towards": "Pasir Ris / Changi Airport",
+        "escalators": [
+          "8",
+          "19"
+        ],
+        "twdLine": [],
+        "stairs": [
+          "8",
+          "19"
+        ],
+        "lifts": [
+          "13"
+        ]
+      },
+      {
+        "stationName": "Eunos",
+        "stationCode": "EW7",
+        "towards": "Tuas Link",
+        "escalators": [
+          "6",
+          "17"
+        ],
+        "twdLine": [],
+        "stairs": [
+          "6",
+          "17"
+        ],
+        "lifts": [
+          "12"
+        ]
+      },
+      {
+        "stationName": "Paya Lebar",
+        "stationCode": "EW8  CC9",
+        "towards": "Pasir Ris / Changi Airport",
+        "escalators": [
+          "7",
+          "12"
+        ],
+        "twdLine": [
+          "CC:",
+          "24"
+        ],
+        "stairs": [
+          "7",
+          "12",
+          "24"
+        ],
+        "lifts": [
+          "21"
+        ]
+      },
+      {
+        "stationName": "Paya Lebar",
+        "stationCode": "EW8  CC9",
+        "towards": "Tuas Link",
+        "escalators": [
+          "13",
+          "18"
+        ],
+        "twdLine": [
+          "CC:",
+          "1"
+        ],
+        "stairs": [
+          "1",
+          "13",
+          "18"
+        ],
+        "lifts": [
+          "4"
+        ]
+      },
+      {
+        "stationName": "Aljunied",
+        "stationCode": "EW9",
+        "towards": "Pasir Ris / Changi Airport",
+        "escalators": [
+          "7",
+          "18"
+        ],
+        "twdLine": [],
+        "stairs": [
+          "7",
+          "18"
+        ],
+        "lifts": [
+          "12"
+        ]
+      },
+      {
+        "stationName": "Aljunied",
+        "stationCode": "EW9",
+        "towards": "Tuas Link",
+        "escalators": [
+          "7",
+          "18"
+        ],
+        "twdLine": [],
+        "stairs": [
+          "7",
+          "18"
+        ],
+        "lifts": [
+          "13"
+        ]
+      },
+      {
+        "stationName": "Kallang",
+        "stationCode": "EW10",
+        "towards": "Pasir Ris / Changi Airport",
+        "escalators": [
+          "7",
+          "18"
+        ],
+        "twdLine": [],
+        "stairs": [
+          "7",
+          "18"
+        ],
+        "lifts": [
+          "13"
+        ]
+      },
+      {
+        "stationName": "Kallang",
+        "stationCode": "EW10",
+        "towards": "Tuas Link",
+        "escalators": [
+          "7",
+          "18"
+        ],
+        "twdLine": [],
+        "stairs": [
+          "7",
+          "18"
+        ],
+        "lifts": [
+          "12"
+        ]
+      },
+      {
+        "stationName": "Lavender",
+        "stationCode": "EW11",
+        "towards": "Pasir Ris / Changi Airport",
+        "escalators": [
+          "10",
+          "17"
+        ],
+        "twdLine": [],
+        "stairs": [
+          "10",
+          "17"
+        ],
+        "lifts": [
+          "19"
+        ]
+      },
+      {
+        "stationName": "Lavender",
+        "stationCode": "EW11",
+        "towards": "Tuas Link",
+        "escalators": [
+          "8",
+          "15"
+        ],
+        "twdLine": [],
+        "stairs": [
+          "8",
+          "15"
+        ],
+        "lifts": [
+          "6"
+        ]
+      },
+      {
+        "stationName": "Bugis",
+        "stationCode": "EW12  DT14",
+        "towards": "Pasir Ris / Changi Airport",
+        "escalators": [
+          "9",
+          "18"
+        ],
+        "twdLine": [],
+        "stairs": [
+          "18"
+        ],
+        "lifts": [
+          "19"
+        ]
+      },
+      {
+        "stationName": "Bugis",
+        "stationCode": "EW12  DT14",
+        "towards": "Tuas Link",
+        "escalators": [
+          "7",
+          "16"
+        ],
+        "twdLine": [],
+        "stairs": [
+          "7"
+        ],
+        "lifts": [
+          "6"
+        ]
+      },
+      {
+        "stationName": "City Hall",
+        "stationCode": "EW13  NS25",
+        "towards": "Pasir Ris / Changi Airport",
+        "escalators": [
+          "9",
+          "20"
+        ],
+        "twdLine": [
+          "TL/JE:",
+          "13",
+          "16"
+        ],
+        "stairs": [
+          "11",
+          "18"
+        ],
+        "lifts": [
+          "14"
+        ]
+      },
+      {
+        "stationName": "City Hall",
+        "stationCode": "EW13  NS25",
+        "towards": "Tuas Link",
+        "escalators": [
+          "9",
+          "12"
+        ],
+        "twdLine": [
+          "PR/MSP:",
+          "6",
+          "16"
+        ],
+        "stairs": [
+          "6",
+          "9",
+          "12",
+          "16"
+        ],
+        "lifts": [
+          "11"
+        ]
+      },
+      {
+        "stationName": "Raffles Place",
+        "stationCode": "EW14  NS26",
+        "towards": "Pasir Ris / Changi Airport",
+        "escalators": [
+          "6",
+          "19"
+        ],
+        "twdLine": [
+          "TL/MSP:",
+          "9",
+          "16"
+        ],
+        "stairs": [
+          "11",
+          "14"
+        ],
+        "lifts": [
+          "21"
+        ]
+      },
+      {
+        "stationName": "Raffles Place",
+        "stationCode": "EW14  NS26",
+        "towards": "Tuas Link",
+        "escalators": [
+          "10",
+          "15"
+        ],
+        "twdLine": [
+          "PR/JE:",
+          "5",
+          "20"
+        ],
+        "stairs": [
+          "12"
+        ],
+        "lifts": [
+          "4"
+        ]
+      },
+      {
+        "stationName": "Tanjong Pagar",
+        "stationCode": "EW15",
+        "towards": "Pasir Ris / Changi Airport",
+        "escalators": [
+          "4",
+          "19✅"
+        ],
+        "twdLine": [],
+        "stairs": [
+          "8",
+          "15"
+        ],
+        "lifts": [
+          "11"
+        ]
+      },
+      {
+        "stationName": "Tanjong Pagar",
+        "stationCode": "EW15",
+        "towards": "Tuas Link",
+        "escalators": [
+          "5✅",
+          "21"
+        ],
+        "twdLine": [],
+        "stairs": [
+          "17",
+          "10"
+        ],
+        "lifts": [
+          "14"
+        ]
+      },
+      {
+        "stationName": "Outram Park",
+        "stationCode": "EW16  NE3  TE17",
+        "towards": "Pasir Ris / Changi Airport",
+        "escalators": [
+          "7✅",
+          "17"
+        ],
+        "twdLine": [
+          "NE:",
+          "5",
+          "13",
+          "TE:",
+          "7",
+          "17",
+          "21"
+        ],
+        "stairs": [
+          "5",
+          "10",
+          "15"
+        ],
+        "lifts": [
+          "6"
+        ]
+      },
+      {
+        "stationName": "Outram Park",
+        "stationCode": "EW16  NE3  TE17",
+        "towards": "Tuas Link",
+        "escalators": [
+          "7",
+          "18✅"
+        ],
+        "twdLine": [
+          "NE:",
+          "12",
+          "20",
+          "TE:",
+          "4",
+          "7",
+          "17"
+        ],
+        "stairs": [
+          "10",
+          "15",
+          "20"
+        ],
+        "lifts": [
+          "19"
+        ]
+      },
+      {
+        "stationName": "Tiong Bahru",
+        "stationCode": "EW17",
+        "towards": "Pasir Ris / Changi Airport",
+        "escalators": [
+          "10",
+          "17"
+        ],
+        "twdLine": [],
+        "stairs": [
+          "10",
+          "21"
+        ],
+        "lifts": [
+          "13"
+        ]
+      },
+      {
+        "stationName": "Tiong Bahru",
+        "stationCode": "EW17",
+        "towards": "Tuas Link",
+        "escalators": [
+          "8",
+          "15"
+        ],
+        "twdLine": [],
+        "stairs": [
+          "4",
+          "15"
+        ],
+        "lifts": [
+          "12"
+        ]
+      },
+      {
+        "stationName": "Redhill",
+        "stationCode": "EW18",
+        "towards": "Pasir Ris / Changi Airport",
+        "escalators": [
+          "14"
+        ],
+        "twdLine": [],
+        "stairs": [
+          "18"
+        ],
+        "lifts": [
+          "10"
+        ]
+      },
+      {
+        "stationName": "Redhill",
+        "stationCode": "EW18",
+        "towards": "Tuas Link",
+        "escalators": [
+          "11"
+        ],
+        "twdLine": [],
+        "stairs": [
+          "7"
+        ],
+        "lifts": [
+          "15"
+        ]
+      },
+      {
+        "stationName": "Queenstown",
+        "stationCode": "EW19",
+        "towards": "Pasir Ris / Changi Airport",
+        "escalators": [
+          "14"
+        ],
+        "twdLine": [],
+        "stairs": [
+          "14",
+          "18"
+        ],
+        "lifts": [
+          "10"
+        ]
+      },
+      {
+        "stationName": "Queenstown",
+        "stationCode": "EW19",
+        "towards": "Tuas Link",
+        "escalators": [
+          "11"
+        ],
+        "twdLine": [],
+        "stairs": [
+          "7",
+          "11"
+        ],
+        "lifts": [
+          "15"
+        ]
+      },
+      {
+        "stationName": "Commonwealth",
+        "stationCode": "EW20",
+        "towards": "Pasir Ris / Changi Airport",
+        "escalators": [
+          "11"
+        ],
+        "twdLine": [],
+        "stairs": [
+          "7"
+        ],
+        "lifts": [
+          "15"
+        ]
+      },
+      {
+        "stationName": "Commonwealth",
+        "stationCode": "EW20",
+        "towards": "Tuas Link",
+        "escalators": [
+          "14"
+        ],
+        "twdLine": [],
+        "stairs": [
+          "18"
+        ],
+        "lifts": [
+          "10"
+        ]
+      },
+      {
+        "stationName": "Buona Vista",
+        "stationCode": "EW21  CC22",
+        "towards": "Pasir Ris / Changi Airport",
+        "escalators": [
+          "14",
+          "5✅"
+        ],
+        "twdLine": [
+          "CC:",
+          "5"
+        ],
+        "stairs": [
+          "18"
+        ],
+        "lifts": [
+          "1"
+        ]
+      },
+      {
+        "stationName": "Buona Vista",
+        "stationCode": "EW21  CC22",
+        "towards": "Tuas Link",
+        "escalators": [
+          "11",
+          "19✅"
+        ],
+        "twdLine": [
+          "CC:",
+          "19"
+        ],
+        "stairs": [
+          "7"
+        ],
+        "lifts": [
+          "24"
+        ]
+      },
+      {
+        "stationName": "Dover",
+        "stationCode": "EW22 Infill station",
+        "towards": "Pasir Ris / Changi Airport",
+        "escalators": [
+          "6",
+          "16"
+        ],
+        "twdLine": [],
+        "stairs": [
+          "6",
+          "16"
+        ],
+        "lifts": [
+          "12"
+        ]
+      },
+      {
+        "stationName": "Dover",
+        "stationCode": "EW22 Infill station",
+        "towards": "Tuas Link",
+        "escalators": [
+          "9",
+          "19"
+        ],
+        "twdLine": [],
+        "stairs": [
+          "9",
+          "19"
+        ],
+        "lifts": [
+          "13"
+        ]
+      },
+      {
+        "stationName": "Clementi",
+        "stationCode": "EW23  CR17",
+        "towards": "Pasir Ris / Changi Airport",
+        "escalators": [
+          "11"
+        ],
+        "twdLine": [],
+        "stairs": [
+          "7"
+        ],
+        "lifts": [
+          "10"
+        ]
+      },
+      {
+        "stationName": "Clementi",
+        "stationCode": "EW23  CR17",
+        "towards": "Tuas Link",
+        "escalators": [
+          "14"
+        ],
+        "twdLine": [],
+        "stairs": [
+          "18"
+        ],
+        "lifts": [
+          "15"
+        ]
+      },
+      {
+        "stationName": "Jurong East",
+        "stationCode": "EW24  NS1  JE5",
+        "towards": "Pasir Ris / Changi Airport",
+        "escalators": [
+          "8",
+          "18"
+        ],
+        "twdLine": [],
+        "stairs": [
+          "8",
+          "18"
+        ],
+        "lifts": [
+          "13"
+        ]
+      },
+      {
+        "stationName": "Jurong East",
+        "stationCode": "EW24  NS1  JE5",
+        "towards": "Tuas Link",
+        "escalators": [
+          "7",
+          "17"
+        ],
+        "twdLine": [],
+        "stairs": [
+          "7",
+          "17"
+        ],
+        "lifts": [
+          "12"
+        ]
+      },
+      {
+        "stationName": "Chinese Garden",
+        "stationCode": "EW25",
+        "towards": "Pasir Ris / Changi Airport",
+        "escalators": [
+          "8",
+          "19"
+        ],
+        "twdLine": [],
+        "stairs": [
+          "8",
+          "19"
+        ],
+        "lifts": [
+          "13"
+        ]
+      },
+      {
+        "stationName": "Chinese Garden",
+        "stationCode": "EW25",
+        "towards": "Tuas Link",
+        "escalators": [
+          "8",
+          "19"
+        ],
+        "twdLine": [],
+        "stairs": [
+          "8",
+          "19"
+        ],
+        "lifts": [
+          "13"
+        ]
+      },
+      {
+        "stationName": "Lakeside",
+        "stationCode": "EW26",
+        "towards": "Pasir Ris / Changi Airport",
+        "escalators": [
+          "8",
+          "19"
+        ],
+        "twdLine": [],
+        "stairs": [
+          "8",
+          "19"
+        ],
+        "lifts": [
+          "13"
+        ]
+      },
+      {
+        "stationName": "Lakeside",
+        "stationCode": "EW26",
+        "towards": "Tuas Link",
+        "escalators": [
+          "6",
+          "17"
+        ],
+        "twdLine": [],
+        "stairs": [
+          "6",
+          "17"
+        ],
+        "lifts": [
+          "12"
+        ]
+      },
+      {
+        "stationName": "Boon Lay",
+        "stationCode": "EW27  JS8",
+        "towards": "Pasir Ris / Changi Airport",
+        "escalators": [
+          "9",
+          "20"
+        ],
+        "twdLine": [],
+        "stairs": [
+          "9"
+        ],
+        "lifts": [
+          "14"
+        ]
+      },
+      {
+        "stationName": "Boon Lay",
+        "stationCode": "EW27  JS8",
+        "towards": "Tuas Link",
+        "escalators": [
+          "5",
+          "16"
+        ],
+        "twdLine": [],
+        "stairs": [
+          "16"
+        ],
+        "lifts": [
+          "11"
+        ]
+      },
+      {
+        "stationName": "Pioneer",
+        "stationCode": "EW28",
+        "towards": "Pasir Ris / Changi Airport",
+        "escalators": [
+          "8",
+          "16"
+        ],
+        "twdLine": [],
+        "stairs": [
+          "8",
+          "16"
+        ],
+        "lifts": [
+          "15"
+        ]
+      },
+      {
+        "stationName": "Pioneer",
+        "stationCode": "EW28",
+        "towards": "Tuas Link",
+        "escalators": [
+          "9",
+          "17"
+        ],
+        "twdLine": [],
+        "stairs": [
+          "9",
+          "17"
+        ],
+        "lifts": [
+          "10"
+        ]
+      },
+      {
+        "stationName": "Joo Koon",
+        "stationCode": "EW29",
+        "towards": "Pasir Ris / Changi Airport",
+        "escalators": [
+          "9",
+          "18"
+        ],
+        "twdLine": [],
+        "stairs": [
+          "8",
+          "19"
+        ],
+        "lifts": [
+          "10"
+        ]
+      },
+      {
+        "stationName": "Joo Koon",
+        "stationCode": "EW29",
+        "towards": "Tuas Link",
+        "escalators": [
+          "8",
+          "16"
+        ],
+        "twdLine": [],
+        "stairs": [
+          "8",
+          "17"
+        ],
+        "lifts": [
+          "15"
+        ]
+      },
+      {
+        "stationName": "Gul Circle",
+        "stationCode": "EW30",
+        "towards": "Pasir Ris / Changi Airport",
+        "escalators": [
+          "10",
+          "16",
+          "17"
+        ],
+        "twdLine": [],
+        "stairs": [
+          "5",
+          "10",
+          "17",
+          "21"
+        ],
+        "lifts": [
+          "22"
+        ]
+      },
+      {
+        "stationName": "Gul Circle",
+        "stationCode": "EW30",
+        "towards": "Tuas Link",
+        "escalators": [
+          "13",
+          "20"
+        ],
+        "twdLine": [],
+        "stairs": [
+          "7",
+          "24"
+        ],
+        "lifts": [
+          "3"
+        ]
+      },
+      {
+        "stationName": "Tuas Crescent",
+        "stationCode": "EW31",
+        "towards": "Pasir Ris / Changi Airport",
+        "escalators": [
+          "3",
+          "14",
+          "18"
+        ],
+        "twdLine": [],
+        "stairs": [
+          "6",
+          "23"
+        ],
+        "lifts": [
+          "13"
+        ]
+      },
+      {
+        "stationName": "Tuas Crescent",
+        "stationCode": "EW31",
+        "towards": "Tuas Link",
+        "escalators": [
+          "7",
+          "11",
+          "22"
+        ],
+        "twdLine": [],
+        "stairs": [
+          "2",
+          "19"
+        ],
+        "lifts": [
+          "11"
+        ]
+      },
+      {
+        "stationName": "Tuas West Road",
+        "stationCode": "EW32",
+        "towards": "Pasir Ris / Changi Airport",
+        "escalators": [
+          "4",
+          "14",
+          "18"
+        ],
+        "twdLine": [],
+        "stairs": [
+          "9",
+          "21"
+        ],
+        "lifts": [
+          "13"
+        ]
+      },
+      {
+        "stationName": "Tuas West Road",
+        "stationCode": "EW32",
+        "towards": "Tuas Link",
+        "escalators": [
+          "7",
+          "11",
+          "21"
+        ],
+        "twdLine": [],
+        "stairs": [
+          "4",
+          "16"
+        ],
+        "lifts": [
+          "11"
+        ]
+      },
+      {
+        "stationName": "Expo",
+        "stationCode": "CG1",
+        "towards": "Pasir Ris / Changi Airport",
+        "escalators": [
+          "5",
+          "13",
+          "21"
+        ],
+        "twdLine": [
+          "DT:",
+          "13"
+        ],
+        "stairs": [
+          "13",
+          "21"
+        ],
+        "lifts": [
+          "1",
+          "7"
+        ]
+      },
+      {
+        "stationName": "Expo",
+        "stationCode": "CG1",
+        "towards": "Tuas Link",
+        "escalators": [
+          "5",
+          "13",
+          "21"
+        ],
+        "twdLine": [
+          "DT:",
+          "13"
+        ],
+        "stairs": [
+          "13",
+          "21"
+        ],
+        "lifts": [
+          "1",
+          "7"
+        ]
+      },
+      {
+        "stationName": "Changi Airport",
+        "stationCode": "CG2",
+        "towards": "Pasir Ris / Changi Airport",
+        "escalators": [],
+        "twdLine": [
+          "T1,",
+          "T3,",
+          "T4:",
+          "20",
+          "T2:",
+          "5",
+          "Jewel:",
+          "20"
+        ],
+        "stairs": [],
+        "lifts": []
+      },
+      {
+        "stationName": "Changi Airport",
+        "stationCode": "CG2",
+        "towards": "Tuas Link",
+        "escalators": [],
+        "twdLine": [
+          "T1,",
+          "T3,",
+          "T4:",
+          "20",
+          "T2:",
+          "5",
+          "Jewel:",
+          "20"
+        ],
+        "stairs": [],
+        "lifts": []
+      }
+    ],
+    "NS": [
+      {
+        "stationName": "Code",
+        "stationCode": "Name",
+        "towards": "Destination",
+        "escalators": [
+          "Escalator(s)"
+        ],
+        "twdLine": [
+          "Stair(s)"
+        ],
+        "stairs": [
+          "Lift(s)"
+        ],
+        "lifts": [
+          "TWD",
+          "LINE"
+        ]
+      },
+      {
+        "stationName": "NS1  EW24  JE5",
+        "stationCode": "Jurong East",
+        "towards": "Jurong East",
+        "escalators": [
+          "8",
+          "19"
+        ],
+        "twdLine": [
+          "8",
+          "18"
+        ],
+        "stairs": [
+          "13"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NS2",
+        "stationCode": "Bukit Batok",
+        "towards": "Jurong East",
+        "escalators": [
+          "8",
+          "19"
+        ],
+        "twdLine": [
+          "8",
+          "19"
+        ],
+        "stairs": [
+          "13"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NS2",
+        "stationCode": "Bukit Batok",
+        "towards": "Marina South Pier",
+        "escalators": [
+          "6",
+          "17"
+        ],
+        "twdLine": [
+          "6",
+          "17"
+        ],
+        "stairs": [
+          "12"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NS3",
+        "stationCode": "Bukit Gombak",
+        "towards": "Jurong East",
+        "escalators": [
+          "8",
+          "19"
+        ],
+        "twdLine": [
+          "8",
+          "19"
+        ],
+        "stairs": [
+          "13"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NS3",
+        "stationCode": "Bukit Gombak",
+        "towards": "Marina South Pier",
+        "escalators": [
+          "6",
+          "17"
+        ],
+        "twdLine": [
+          "6",
+          "17"
+        ],
+        "stairs": [
+          "12"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NS3A Infill station",
+        "stationCode": "Brickland",
+        "towards": "Jurong East",
+        "escalators": [
+          "8",
+          "19"
+        ],
+        "twdLine": [
+          "8",
+          "19"
+        ],
+        "stairs": [
+          "13"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NS3A Infill station",
+        "stationCode": "Brickland",
+        "towards": "Marina South Pier",
+        "escalators": [
+          "6",
+          "17"
+        ],
+        "twdLine": [
+          "6",
+          "17"
+        ],
+        "stairs": [
+          "12"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NS4  BP1  JS1",
+        "stationCode": "Choa Chu Kang",
+        "towards": "Jurong East",
+        "escalators": [
+          "8",
+          "19"
+        ],
+        "twdLine": [
+          "6",
+          "8"
+        ],
+        "stairs": [
+          "13"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NS4  BP1  JS1",
+        "stationCode": "Choa Chu Kang",
+        "towards": "Marina South Pier",
+        "escalators": [
+          "6",
+          "17"
+        ],
+        "twdLine": [
+          "17",
+          "19"
+        ],
+        "stairs": [
+          "12"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NS5",
+        "stationCode": "Yew Tee",
+        "towards": "Jurong East",
+        "escalators": [
+          "7",
+          "18"
+        ],
+        "twdLine": [
+          "7"
+        ],
+        "stairs": [
+          "13"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NS5",
+        "stationCode": "Yew Tee",
+        "towards": "Marina South Pier",
+        "escalators": [
+          "7",
+          "18"
+        ],
+        "twdLine": [
+          "18"
+        ],
+        "stairs": [
+          "12"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NS7",
+        "stationCode": "Kranji",
+        "towards": "Jurong East",
+        "escalators": [
+          "7",
+          "18"
+        ],
+        "twdLine": [
+          "7",
+          "18"
+        ],
+        "stairs": [
+          "13"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NS7",
+        "stationCode": "Kranji",
+        "towards": "Marina South Pier",
+        "escalators": [
+          "7",
+          "18"
+        ],
+        "twdLine": [
+          "7",
+          "18"
+        ],
+        "stairs": [
+          "12"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NS8",
+        "stationCode": "Marsiling",
+        "towards": "Jurong East",
+        "escalators": [
+          "7",
+          "18"
+        ],
+        "twdLine": [
+          "18"
+        ],
+        "stairs": [
+          "13"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NS8",
+        "stationCode": "Marsiling",
+        "towards": "Marina South Pier",
+        "escalators": [
+          "7",
+          "18"
+        ],
+        "twdLine": [
+          "7"
+        ],
+        "stairs": [
+          "12"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NS9  TE2",
+        "stationCode": "Woodlands",
+        "towards": "Jurong East",
+        "escalators": [
+          "7",
+          "18"
+        ],
+        "twdLine": [
+          "7",
+          "18"
+        ],
+        "stairs": [
+          "13"
+        ],
+        "lifts": [
+          "TE:",
+          "23"
+        ]
+      },
+      {
+        "stationName": "NS9  TE2",
+        "stationCode": "Woodlands",
+        "towards": "Marina South Pier",
+        "escalators": [
+          "7",
+          "18"
+        ],
+        "twdLine": [
+          "7",
+          "18"
+        ],
+        "stairs": [
+          "12"
+        ],
+        "lifts": [
+          "TE:",
+          "2"
+        ]
+      },
+      {
+        "stationName": "NS10",
+        "stationCode": "Admiralty",
+        "towards": "Jurong East",
+        "escalators": [
+          "7",
+          "18"
+        ],
+        "twdLine": [
+          "7"
+        ],
+        "stairs": [
+          "13"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NS10",
+        "stationCode": "Admiralty",
+        "towards": "Marina South Pier",
+        "escalators": [
+          "7",
+          "18"
+        ],
+        "twdLine": [
+          "18"
+        ],
+        "stairs": [
+          "12"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NS11",
+        "stationCode": "Sembawang",
+        "towards": "Jurong East",
+        "escalators": [
+          "7",
+          "18"
+        ],
+        "twdLine": [
+          "7"
+        ],
+        "stairs": [
+          "13"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NS11",
+        "stationCode": "Sembawang",
+        "towards": "Marina South Pier",
+        "escalators": [
+          "7",
+          "18"
+        ],
+        "twdLine": [
+          "18"
+        ],
+        "stairs": [
+          "12"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NS12",
+        "stationCode": "Canberra",
+        "towards": "Jurong East",
+        "escalators": [
+          "0"
+        ],
+        "twdLine": [
+          "0"
+        ],
+        "stairs": [
+          "0"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NS12",
+        "stationCode": "Canberra",
+        "towards": "Marina South Pier",
+        "escalators": [
+          "0"
+        ],
+        "twdLine": [
+          "0"
+        ],
+        "stairs": [
+          "0"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NS13",
+        "stationCode": "Yishun",
+        "towards": "Jurong East",
+        "escalators": [
+          "8",
+          "19"
+        ],
+        "twdLine": [
+          "8"
+        ],
+        "stairs": [
+          "14"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NS13",
+        "stationCode": "Yishun",
+        "towards": "Marina South Pier",
+        "escalators": [
+          "6",
+          "17"
+        ],
+        "twdLine": [
+          "17"
+        ],
+        "stairs": [
+          "11"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NS14",
+        "stationCode": "Khatib",
+        "towards": "Jurong East",
+        "escalators": [
+          "8",
+          "19"
+        ],
+        "twdLine": [
+          "8",
+          "19"
+        ],
+        "stairs": [
+          "13"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NS14",
+        "stationCode": "Khatib",
+        "towards": "Marina South Pier",
+        "escalators": [
+          "6",
+          "17"
+        ],
+        "twdLine": [
+          "6",
+          "17"
+        ],
+        "stairs": [
+          "12"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NS15",
+        "stationCode": "Yio Chu Kang",
+        "towards": "Jurong East",
+        "escalators": [
+          "7",
+          "18"
+        ],
+        "twdLine": [
+          "18"
+        ],
+        "stairs": [
+          "6"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NS15",
+        "stationCode": "Yio Chu Kang",
+        "towards": "Marina South Pier",
+        "escalators": [
+          "7",
+          "18"
+        ],
+        "twdLine": [
+          "7"
+        ],
+        "stairs": [
+          "19"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NS16  CR11",
+        "stationCode": "Ang Mo Kio",
+        "towards": "Jurong East",
+        "escalators": [
+          "8",
+          "17"
+        ],
+        "twdLine": [
+          "4",
+          "17"
+        ],
+        "stairs": [
+          "7"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NS16  CR11",
+        "stationCode": "Ang Mo Kio",
+        "towards": "Marina South Pier",
+        "escalators": [
+          "8",
+          "17"
+        ],
+        "twdLine": [
+          "8",
+          "21"
+        ],
+        "stairs": [
+          "18"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NS17  CC15",
+        "stationCode": "Bishan",
+        "towards": "Jurong East",
+        "escalators": [
+          "8",
+          "9",
+          "16"
+        ],
+        "twdLine": [
+          "5",
+          "9",
+          "16"
+        ],
+        "stairs": [
+          "13"
+        ],
+        "lifts": [
+          "CC:",
+          "17"
+        ]
+      },
+      {
+        "stationName": "NS17  CC15",
+        "stationCode": "Bishan",
+        "towards": "Marina South Pier",
+        "escalators": [
+          "9",
+          "16"
+        ],
+        "twdLine": [
+          "9",
+          "11",
+          "16",
+          "22"
+        ],
+        "stairs": [
+          "11"
+        ],
+        "lifts": [
+          "CC:",
+          "22"
+        ]
+      },
+      {
+        "stationName": "NS18",
+        "stationCode": "Braddell",
+        "towards": "Jurong East",
+        "escalators": [
+          "17"
+        ],
+        "twdLine": [
+          "10",
+          "17"
+        ],
+        "stairs": [
+          "12"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NS18",
+        "stationCode": "Braddell",
+        "towards": "Marina South Pier",
+        "escalators": [
+          "10"
+        ],
+        "twdLine": [
+          "10",
+          "15"
+        ],
+        "stairs": [
+          "13"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NS19",
+        "stationCode": "Toa Payoh",
+        "towards": "Jurong East",
+        "escalators": [
+          "6",
+          "19"
+        ],
+        "twdLine": [
+          "10",
+          "15"
+        ],
+        "stairs": [
+          "20"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NS19",
+        "stationCode": "Toa Payoh",
+        "towards": "Marina South Pier",
+        "escalators": [
+          "6",
+          "19"
+        ],
+        "twdLine": [
+          "10",
+          "15"
+        ],
+        "stairs": [
+          "5"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NS20",
+        "stationCode": "Novena",
+        "towards": "Jurong East",
+        "escalators": [
+          "11",
+          "14"
+        ],
+        "twdLine": [
+          "8",
+          "17"
+        ],
+        "stairs": [
+          "10"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NS20",
+        "stationCode": "Novena",
+        "towards": "Marina South Pier",
+        "escalators": [
+          "11",
+          "14"
+        ],
+        "twdLine": [
+          "8",
+          "17"
+        ],
+        "stairs": [
+          "15"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NS21 – DT11",
+        "stationCode": "Newton",
+        "towards": "Jurong East",
+        "escalators": [
+          "10",
+          "17"
+        ],
+        "twdLine": [
+          "10",
+          "17"
+        ],
+        "stairs": [
+          "12"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NS21 – DT11",
+        "stationCode": "Newton",
+        "towards": "Marina South Pier",
+        "escalators": [
+          "8",
+          "15"
+        ],
+        "twdLine": [
+          "8",
+          "15"
+        ],
+        "stairs": [
+          "13"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NS22  TE14",
+        "stationCode": "Orchard",
+        "towards": "Jurong East",
+        "escalators": [
+          "6",
+          "17"
+        ],
+        "twdLine": [
+          "10",
+          "13"
+        ],
+        "stairs": [
+          "12"
+        ],
+        "lifts": [
+          "TE:",
+          "14",
+          "21"
+        ]
+      },
+      {
+        "stationName": "NS22  TE14",
+        "stationCode": "Orchard",
+        "towards": "Marina South Pier",
+        "escalators": [
+          "8",
+          "19"
+        ],
+        "twdLine": [
+          "12",
+          "15"
+        ],
+        "stairs": [
+          "13"
+        ],
+        "lifts": [
+          "TE:",
+          "4",
+          "11"
+        ]
+      },
+      {
+        "stationName": "NS23",
+        "stationCode": "Somerset",
+        "towards": "Jurong East",
+        "escalators": [
+          "8",
+          "19"
+        ],
+        "twdLine": [
+          "8",
+          "12",
+          "15",
+          "19"
+        ],
+        "stairs": [
+          "14"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NS23",
+        "stationCode": "Somerset",
+        "towards": "Marina South Pier",
+        "escalators": [
+          "6",
+          "17"
+        ],
+        "twdLine": [
+          "6",
+          "10",
+          "13",
+          "17"
+        ],
+        "stairs": [
+          "11"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NS24  NE6  CC1",
+        "stationCode": "Dhoby Ghaut",
+        "towards": "Jurong East",
+        "escalators": [
+          "8",
+          "17"
+        ],
+        "twdLine": [
+          "5",
+          "11",
+          "14",
+          "20"
+        ],
+        "stairs": [
+          "13"
+        ],
+        "lifts": [
+          "NE:",
+          "8",
+          "17"
+        ]
+      },
+      {
+        "stationName": "NS24  NE6  CC1",
+        "stationCode": "Dhoby Ghaut",
+        "towards": "Marina South Pier",
+        "escalators": [
+          "8",
+          "17"
+        ],
+        "twdLine": [
+          "5",
+          "11",
+          "14",
+          "20"
+        ],
+        "stairs": [
+          "12"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NS25  EW13",
+        "stationCode": "City Hall",
+        "towards": "Jurong East",
+        "escalators": [
+          "13",
+          "16"
+        ],
+        "twdLine": [
+          "9",
+          "13",
+          "16",
+          "19"
+        ],
+        "stairs": [
+          "14"
+        ],
+        "lifts": [
+          "Thus",
+          "Link/Marina",
+          "South",
+          "Pier:",
+          "9",
+          "19"
+        ]
+      },
+      {
+        "stationName": "NS25  EW13",
+        "stationCode": "City Hall",
+        "towards": "Marina South Pier",
+        "escalators": [
+          "5",
+          "16"
+        ],
+        "twdLine": [
+          "7",
+          "14"
+        ],
+        "stairs": [
+          "11"
+        ],
+        "lifts": [
+          "Thus",
+          "Link/Jurong",
+          "East:",
+          "9",
+          "12"
+        ]
+      },
+      {
+        "stationName": "NS26  EW14",
+        "stationCode": "Raffles Place",
+        "towards": "Jurong East",
+        "escalators": [
+          "13",
+          "16"
+        ],
+        "twdLine": [
+          "11",
+          "14"
+        ],
+        "stairs": [
+          "21"
+        ],
+        "lifts": [
+          "PR/MSP:",
+          "9",
+          "19"
+        ]
+      },
+      {
+        "stationName": "NS26  EW14",
+        "stationCode": "Raffles Place",
+        "towards": "Marina South Pier",
+        "escalators": [
+          "10",
+          "15"
+        ],
+        "twdLine": [
+          "12"
+        ],
+        "stairs": [
+          "4"
+        ],
+        "lifts": [
+          "5",
+          "20"
+        ]
+      },
+      {
+        "stationName": "NS27  CE2  TE20",
+        "stationCode": "Marina Bay",
+        "towards": "Jurong East",
+        "escalators": [
+          "9",
+          "18"
+        ],
+        "twdLine": [
+          "18"
+        ],
+        "stairs": [
+          "14"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NS27  CE2  TE20",
+        "stationCode": "Marina Bay",
+        "towards": "Marina South Pier",
+        "escalators": [
+          "7",
+          "16"
+        ],
+        "twdLine": [
+          "7"
+        ],
+        "stairs": [
+          "11"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NS28",
+        "stationCode": "Marina South Pier",
+        "towards": "Marina South Pier",
+        "escalators": [
+          "6",
+          "19"
+        ],
+        "twdLine": [
+          "6",
+          "13",
+          "19"
+        ],
+        "stairs": [
+          "12"
+        ],
+        "lifts": []
+      }
+    ],
+    "NE": [
+      {
+        "stationName": "Code",
+        "stationCode": "Name",
+        "towards": "Destination",
+        "escalators": [
+          "Escalator(s)"
+        ],
+        "twdLine": [
+          "Lift(s)"
+        ],
+        "stairs": [
+          "Stair(s)"
+        ],
+        "lifts": [
+          "TWD",
+          "LINE"
+        ]
+      },
+      {
+        "stationName": "NE1  CC29",
+        "stationCode": "HarbourFront",
+        "towards": "Harbourfront",
+        "escalators": [
+          "9",
+          "19"
+        ],
+        "twdLine": [
+          "14"
+        ],
+        "stairs": [
+          "9",
+          "19"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NE3  EW16  TE17",
+        "stationCode": "Outram Park",
+        "towards": "Harbourfront",
+        "escalators": [
+          "11",
+          "13",
+          "19✅"
+        ],
+        "twdLine": [
+          "17"
+        ],
+        "stairs": [
+          "11",
+          "13",
+          "19"
+        ],
+        "lifts": [
+          "EW:",
+          "13",
+          "TE:",
+          "19"
+        ]
+      },
+      {
+        "stationName": "NE3  EW16  TE17",
+        "stationCode": "Outram Park",
+        "towards": "Punggol",
+        "escalators": [
+          "12",
+          "14",
+          "19✅"
+        ],
+        "twdLine": [
+          "8"
+        ],
+        "stairs": [
+          "6",
+          "12",
+          "14"
+        ],
+        "lifts": [
+          "EW:",
+          "12",
+          "TE:",
+          "6"
+        ]
+      },
+      {
+        "stationName": "NE4  DT19",
+        "stationCode": "Chinatown",
+        "towards": "Harbourfront",
+        "escalators": [
+          "2",
+          "12",
+          "19"
+        ],
+        "twdLine": [
+          "7"
+        ],
+        "stairs": [
+          "2",
+          "10"
+        ],
+        "lifts": [
+          "DT:",
+          "1"
+        ]
+      },
+      {
+        "stationName": "NE4  DT19",
+        "stationCode": "Chinatown",
+        "towards": "Punggol",
+        "escalators": [
+          "2",
+          "10",
+          "19"
+        ],
+        "twdLine": [
+          "7"
+        ],
+        "stairs": [
+          "2",
+          "10"
+        ],
+        "lifts": [
+          "DT:",
+          "1"
+        ]
+      },
+      {
+        "stationName": "NE5",
+        "stationCode": "Clarke Quay",
+        "towards": "Harbourfront",
+        "escalators": [
+          "4",
+          "11",
+          "14",
+          "21"
+        ],
+        "twdLine": [
+          "12"
+        ],
+        "stairs": [
+          "4",
+          "11",
+          "14",
+          "21"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NE5",
+        "stationCode": "Clarke Quay",
+        "towards": "Punggol",
+        "escalators": [
+          "4",
+          "11",
+          "14",
+          "21"
+        ],
+        "twdLine": [
+          "13"
+        ],
+        "stairs": [
+          "4",
+          "11",
+          "14",
+          "21"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NE6  NS24  CC1",
+        "stationCode": "Dhoby Ghaut",
+        "towards": "Harbourfront",
+        "escalators": [
+          "7",
+          "12"
+        ],
+        "twdLine": [
+          "1"
+        ],
+        "stairs": [
+          "4",
+          "16",
+          "20"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NE6  NS24  CC1",
+        "stationCode": "Dhoby Ghaut",
+        "towards": "Punggol",
+        "escalators": [
+          "9",
+          "13",
+          "18"
+        ],
+        "twdLine": [
+          "24"
+        ],
+        "stairs": [
+          "5",
+          "9",
+          "21"
+        ],
+        "lifts": [
+          "NS:",
+          "9"
+        ]
+      },
+      {
+        "stationName": "NE7  DT12",
+        "stationCode": "Little India",
+        "towards": "Harbourfront",
+        "escalators": [
+          "8",
+          "17"
+        ],
+        "twdLine": [
+          "13"
+        ],
+        "stairs": [
+          "8",
+          "17"
+        ],
+        "lifts": [
+          "DT:",
+          "8"
+        ]
+      },
+      {
+        "stationName": "NE7  DT12",
+        "stationCode": "Little India",
+        "towards": "Punggol",
+        "escalators": [
+          "8",
+          "17"
+        ],
+        "twdLine": [
+          "12"
+        ],
+        "stairs": [
+          "8",
+          "17"
+        ],
+        "lifts": [
+          "DT:",
+          "17"
+        ]
+      },
+      {
+        "stationName": "NE8",
+        "stationCode": "Farrer Park",
+        "towards": "Harbourfront",
+        "escalators": [
+          "8",
+          "17"
+        ],
+        "twdLine": [
+          "12"
+        ],
+        "stairs": [
+          "8",
+          "17"
+        ],
+        "lifts": [
+          "City",
+          "Square:",
+          "17"
+        ]
+      },
+      {
+        "stationName": "NE8",
+        "stationCode": "Farrer Park",
+        "towards": "Punggol",
+        "escalators": [
+          "8",
+          "17"
+        ],
+        "twdLine": [
+          "13"
+        ],
+        "stairs": [
+          "8",
+          "17"
+        ],
+        "lifts": [
+          "City",
+          "Square:",
+          "8"
+        ]
+      },
+      {
+        "stationName": "NE9",
+        "stationCode": "Boon Keng",
+        "towards": "Harbourfront",
+        "escalators": [
+          "8",
+          "17"
+        ],
+        "twdLine": [
+          "12"
+        ],
+        "stairs": [
+          "8"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NE9",
+        "stationCode": "Boon Keng",
+        "towards": "Punggol",
+        "escalators": [
+          "8",
+          "17"
+        ],
+        "twdLine": [
+          "13"
+        ],
+        "stairs": [
+          "17"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NE10",
+        "stationCode": "Potong Pasir",
+        "towards": "Harbourfront",
+        "escalators": [
+          "8",
+          "17"
+        ],
+        "twdLine": [
+          "6"
+        ],
+        "stairs": [
+          "8"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NE10",
+        "stationCode": "Potong Pasir",
+        "towards": "Punggol",
+        "escalators": [
+          "8",
+          "17"
+        ],
+        "twdLine": [
+          "19"
+        ],
+        "stairs": [
+          "17"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NE11",
+        "stationCode": "Woodleigh",
+        "towards": "Harbourfront",
+        "escalators": [
+          "8",
+          "17"
+        ],
+        "twdLine": [
+          "12"
+        ],
+        "stairs": [
+          "17"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NE11",
+        "stationCode": "Woodleigh",
+        "towards": "Punggol",
+        "escalators": [
+          "8",
+          "17"
+        ],
+        "twdLine": [
+          "13"
+        ],
+        "stairs": [
+          "8"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NE12  CC13",
+        "stationCode": "Serangoon",
+        "towards": "Harbourfront",
+        "escalators": [
+          "9",
+          "19"
+        ],
+        "twdLine": [
+          "15"
+        ],
+        "stairs": [
+          "6",
+          "19",
+          "29"
+        ],
+        "lifts": [
+          "CC:",
+          "9"
+        ]
+      },
+      {
+        "stationName": "NE12  CC13",
+        "stationCode": "Serangoon",
+        "towards": "Punggol",
+        "escalators": [
+          "6",
+          "16"
+        ],
+        "twdLine": [
+          "10"
+        ],
+        "stairs": [
+          "5",
+          "6",
+          "19"
+        ],
+        "lifts": [
+          "CC:",
+          "16"
+        ]
+      },
+      {
+        "stationName": "NE13",
+        "stationCode": "Kovan",
+        "towards": "Harbourfront",
+        "escalators": [
+          "8",
+          "17"
+        ],
+        "twdLine": [
+          "13"
+        ],
+        "stairs": [
+          "8",
+          "17"
+        ],
+        "lifts": [
+          "Heartland",
+          "Mall:",
+          "17"
+        ]
+      },
+      {
+        "stationName": "NE13",
+        "stationCode": "Kovan",
+        "towards": "Punggol",
+        "escalators": [
+          "8",
+          "17"
+        ],
+        "twdLine": [
+          "12"
+        ],
+        "stairs": [
+          "8",
+          "17"
+        ],
+        "lifts": [
+          "Hertland",
+          "Mall:",
+          "8"
+        ]
+      },
+      {
+        "stationName": "NE14  CR8",
+        "stationCode": "Hougang",
+        "towards": "Harbourfront",
+        "escalators": [
+          "8",
+          "17"
+        ],
+        "twdLine": [
+          "12"
+        ],
+        "stairs": [
+          "8",
+          "17"
+        ],
+        "lifts": [
+          "Hougang",
+          "Mall:",
+          "17"
+        ]
+      },
+      {
+        "stationName": "NE14  CR8",
+        "stationCode": "Hougang",
+        "towards": "Punggol",
+        "escalators": [
+          "8",
+          "17"
+        ],
+        "twdLine": [
+          "13"
+        ],
+        "stairs": [
+          "8",
+          "17"
+        ],
+        "lifts": [
+          "Hougang",
+          "Mall:",
+          "8"
+        ]
+      },
+      {
+        "stationName": "NE15",
+        "stationCode": "Buangkok",
+        "towards": "Harbourfront",
+        "escalators": [
+          "9",
+          "16",
+          "24"
+        ],
+        "twdLine": [
+          "5"
+        ],
+        "stairs": [
+          "16"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NE15",
+        "stationCode": "Buangkok",
+        "towards": "Punggol",
+        "escalators": [
+          "9",
+          "16",
+          "24"
+        ],
+        "twdLine": [
+          "20"
+        ],
+        "stairs": [
+          "9"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NE16  STC",
+        "stationCode": "Sengkang",
+        "towards": "Harbourfront",
+        "escalators": [
+          "7",
+          "11",
+          "20"
+        ],
+        "twdLine": [
+          "17"
+        ],
+        "stairs": [
+          "7"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NE16  STC",
+        "stationCode": "Sengkang",
+        "towards": "Punggol",
+        "escalators": [
+          "5",
+          "14",
+          "18"
+        ],
+        "twdLine": [
+          "8"
+        ],
+        "stairs": [
+          "18"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "NE17  PTC  CP4",
+        "stationCode": "Punggol",
+        "towards": "Punggol",
+        "escalators": [
+          "5",
+          "14",
+          "23"
+        ],
+        "twdLine": [
+          "7",
+          "12"
+        ],
+        "stairs": [
+          "5",
+          "14",
+          "23"
+        ],
+        "lifts": []
+      }
+    ],
+    "CC": [
+      {
+        "stationName": "Code",
+        "stationCode": "Name",
+        "towards": "Destination",
+        "escalators": [
+          "Escalator(s)"
+        ],
+        "twdLine": [
+          "Lift(s)"
+        ],
+        "stairs": [
+          "Stair(s)"
+        ],
+        "lifts": [
+          "TWD",
+          "LINE"
+        ]
+      },
+      {
+        "stationName": "CC1  NS24  NE6",
+        "stationCode": "Dhoby Ghaut",
+        "towards": "Marina Bay / Dhoby Ghaut",
+        "escalators": [
+          "1",
+          "12"
+        ],
+        "twdLine": [
+          "7"
+        ],
+        "stairs": [
+          "5",
+          "10"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "CC2",
+        "stationCode": "Bras Basah",
+        "towards": "Marina Bay / Dhoby Ghaut",
+        "escalators": [
+          "3",
+          "10"
+        ],
+        "twdLine": [
+          "7"
+        ],
+        "stairs": [
+          "3",
+          "10"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "CC2",
+        "stationCode": "Bras Basah",
+        "towards": "Harbourfront",
+        "escalators": [
+          "3",
+          "10"
+        ],
+        "twdLine": [
+          "6"
+        ],
+        "stairs": [
+          "3",
+          "10"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "CC3",
+        "stationCode": "Esplanade",
+        "towards": "Marina Bay / Dhoby Ghaut",
+        "escalators": [
+          "2",
+          "11"
+        ],
+        "twdLine": [
+          "8"
+        ],
+        "stairs": [
+          "2",
+          "11"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "CC3",
+        "stationCode": "Esplanade",
+        "towards": "Harbourfront",
+        "escalators": [
+          "2",
+          "11"
+        ],
+        "twdLine": [
+          "5"
+        ],
+        "stairs": [
+          "2",
+          "11"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "CC4  DT15",
+        "stationCode": "Promenade",
+        "towards": "Marina Bay / Dhoby Ghaut",
+        "escalators": [
+          "2",
+          "11"
+        ],
+        "twdLine": [
+          "6"
+        ],
+        "stairs": [
+          "2",
+          "10",
+          "12"
+        ],
+        "lifts": [
+          "HF:",
+          "9",
+          "DT:",
+          "7"
+        ]
+      },
+      {
+        "stationName": "CC4  DT15",
+        "stationCode": "Promenade",
+        "towards": "Harbourfront",
+        "escalators": [
+          "2",
+          "11"
+        ],
+        "twdLine": [
+          "8"
+        ],
+        "stairs": [
+          "1",
+          "11"
+        ],
+        "lifts": [
+          "DG/MSP:",
+          "8",
+          "DT:",
+          "11"
+        ]
+      },
+      {
+        "stationName": "CC5",
+        "stationCode": "Nicoll Highway",
+        "towards": "Marina Bay / Dhoby Ghaut",
+        "escalators": [
+          "6"
+        ],
+        "twdLine": [
+          "4"
+        ],
+        "stairs": [
+          "6"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "CC5",
+        "stationCode": "Nicoll Highway",
+        "towards": "Harbourfront",
+        "escalators": [
+          "7"
+        ],
+        "twdLine": [
+          "9"
+        ],
+        "stairs": [
+          "7"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "CC6",
+        "stationCode": "Stadium",
+        "towards": "Marina Bay / Dhoby Ghaut",
+        "escalators": [
+          "1",
+          "12"
+        ],
+        "twdLine": [
+          "6"
+        ],
+        "stairs": [
+          "12"
+        ],
+        "lifts": [
+          "Kallang",
+          "Leisure",
+          "Park:",
+          "12"
+        ]
+      },
+      {
+        "stationName": "CC6",
+        "stationCode": "Stadium",
+        "towards": "Harbourfront",
+        "escalators": [
+          "1",
+          "12"
+        ],
+        "twdLine": [
+          "7"
+        ],
+        "stairs": [
+          "1"
+        ],
+        "lifts": [
+          "Kallang",
+          "Leisure",
+          "Park:",
+          "1"
+        ]
+      },
+      {
+        "stationName": "CC7",
+        "stationCode": "Mountbatten",
+        "towards": "Marina Bay / Dhoby Ghaut",
+        "escalators": [
+          "6"
+        ],
+        "twdLine": [
+          "10"
+        ],
+        "stairs": [
+          "8"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "CC7",
+        "stationCode": "Mountbatten",
+        "towards": "Harbourfront",
+        "escalators": [
+          "7"
+        ],
+        "twdLine": [
+          "3"
+        ],
+        "stairs": [
+          "6"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "CC8",
+        "stationCode": "Dakota",
+        "towards": "Marina Bay / Dhoby Ghaut",
+        "escalators": [
+          "5",
+          "8"
+        ],
+        "twdLine": [
+          "10"
+        ],
+        "stairs": [
+          "6"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "CC8",
+        "stationCode": "Dakota",
+        "towards": "Harbourfront",
+        "escalators": [
+          "5",
+          "8"
+        ],
+        "twdLine": [
+          "3"
+        ],
+        "stairs": [
+          "7"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "CC9  EW8",
+        "stationCode": "Paya Lebar",
+        "towards": "Marina Bay / Dhoby Ghaut",
+        "escalators": [
+          "3",
+          "10"
+        ],
+        "twdLine": [
+          "5"
+        ],
+        "stairs": [
+          "3",
+          "10"
+        ],
+        "lifts": [
+          "EW:",
+          "10"
+        ]
+      },
+      {
+        "stationName": "CC9  EW8",
+        "stationCode": "Paya Lebar",
+        "towards": "Harbourfront",
+        "escalators": [
+          "3",
+          "10"
+        ],
+        "twdLine": [
+          "8"
+        ],
+        "stairs": [
+          "3",
+          "10"
+        ],
+        "lifts": [
+          "EW:",
+          "3"
+        ]
+      },
+      {
+        "stationName": "CC10  DT26",
+        "stationCode": "MacPherson",
+        "towards": "Marina Bay / Dhoby Ghaut",
+        "escalators": [
+          "5",
+          "8"
+        ],
+        "twdLine": [
+          "1",
+          "12"
+        ],
+        "stairs": [
+          "2",
+          "5",
+          "8",
+          "11"
+        ],
+        "lifts": [
+          "BP:",
+          "1",
+          "Expo:",
+          "12"
+        ]
+      },
+      {
+        "stationName": "CC10  DT26",
+        "stationCode": "MacPherson",
+        "towards": "Harbourfront",
+        "escalators": [
+          "5",
+          "8"
+        ],
+        "twdLine": [
+          "1",
+          "12"
+        ],
+        "stairs": [
+          "2",
+          "5",
+          "8",
+          "11"
+        ],
+        "lifts": [
+          "BP:",
+          "12",
+          "Expo:",
+          "1"
+        ]
+      },
+      {
+        "stationName": "CC11",
+        "stationCode": "Tai Seng",
+        "towards": "Marina Bay / Dhoby Ghaut",
+        "escalators": [
+          "6",
+          "8"
+        ],
+        "twdLine": [
+          "10"
+        ],
+        "stairs": [
+          "6"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "CC11",
+        "stationCode": "Tai Seng",
+        "towards": "Harbourfront",
+        "escalators": [
+          "5",
+          "7"
+        ],
+        "twdLine": [
+          "3"
+        ],
+        "stairs": [
+          "7"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "CC12",
+        "stationCode": "Bartley",
+        "towards": "Marina Bay / Dhoby Ghaut",
+        "escalators": [
+          "7"
+        ],
+        "twdLine": [
+          "10"
+        ],
+        "stairs": [
+          "7"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "CC12",
+        "stationCode": "Bartley",
+        "towards": "Harbourfront",
+        "escalators": [
+          "6"
+        ],
+        "twdLine": [
+          "3"
+        ],
+        "stairs": [
+          "6"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "CC13  NE12",
+        "stationCode": "Serangoon",
+        "towards": "Marina Bay / Dhoby Ghaut",
+        "escalators": [
+          "1",
+          "7"
+        ],
+        "twdLine": [
+          "5"
+        ],
+        "stairs": [
+          "7"
+        ],
+        "lifts": [
+          "NE:",
+          "1",
+          "Nex:",
+          "1"
+        ]
+      },
+      {
+        "stationName": "CC13  NE12",
+        "stationCode": "Serangoon",
+        "towards": "Harbourfront",
+        "escalators": [
+          "6",
+          "12"
+        ],
+        "twdLine": [
+          "8"
+        ],
+        "stairs": [
+          "6"
+        ],
+        "lifts": [
+          "NE:",
+          "12",
+          "Nex:",
+          "12"
+        ]
+      },
+      {
+        "stationName": "CC14",
+        "stationCode": "Lorong Chuan",
+        "towards": "Marina Bay / Dhoby Ghaut",
+        "escalators": [
+          "7"
+        ],
+        "twdLine": [
+          "10"
+        ],
+        "stairs": [
+          "7"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "CC14",
+        "stationCode": "Lorong Chuan",
+        "towards": "Harbourfront",
+        "escalators": [
+          "6"
+        ],
+        "twdLine": [
+          "3"
+        ],
+        "stairs": [
+          "6"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "CC15  NS17",
+        "stationCode": "Bishan",
+        "towards": "Marina Bay / Dhoby Ghaut",
+        "escalators": [
+          "5"
+        ],
+        "twdLine": [
+          "8"
+        ],
+        "stairs": [
+          "5",
+          "12"
+        ],
+        "lifts": [
+          "NS:",
+          "12"
+        ]
+      },
+      {
+        "stationName": "CC15  NS17",
+        "stationCode": "Bishan",
+        "towards": "Harbourfront",
+        "escalators": [
+          "8"
+        ],
+        "twdLine": [
+          "5"
+        ],
+        "stairs": [
+          "1",
+          "8"
+        ],
+        "lifts": [
+          "NS:",
+          "1"
+        ]
+      },
+      {
+        "stationName": "CC16",
+        "stationCode": "Marymount",
+        "towards": "Marina Bay / Dhoby Ghaut",
+        "escalators": [
+          "6"
+        ],
+        "twdLine": [
+          "3"
+        ],
+        "stairs": [
+          "6"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "CC16",
+        "stationCode": "Marymount",
+        "towards": "Harbourfront",
+        "escalators": [
+          "7"
+        ],
+        "twdLine": [
+          "10"
+        ],
+        "stairs": [
+          "7"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "CC17  TE9",
+        "stationCode": "Caldecott",
+        "towards": "Marina Bay / Dhoby Ghaut",
+        "escalators": [
+          "6"
+        ],
+        "twdLine": [
+          "2"
+        ],
+        "stairs": [
+          "6"
+        ],
+        "lifts": [
+          "TE:",
+          "6"
+        ]
+      },
+      {
+        "stationName": "CC17  TE9",
+        "stationCode": "Caldecott",
+        "towards": "Harbourfront",
+        "escalators": [
+          "7"
+        ],
+        "twdLine": [
+          "11"
+        ],
+        "stairs": [
+          "7"
+        ],
+        "lifts": [
+          "TE:",
+          "7"
+        ]
+      },
+      {
+        "stationName": "CC18  Infill station",
+        "stationCode": "Bukit Brown",
+        "towards": "Marina Bay / Dhoby Ghaut",
+        "escalators": [],
+        "twdLine": [],
+        "stairs": [],
+        "lifts": []
+      },
+      {
+        "stationName": "CC18  Infill station",
+        "stationCode": "Bukit Brown",
+        "towards": "Harbourfront",
+        "escalators": [],
+        "twdLine": [],
+        "stairs": [],
+        "lifts": []
+      },
+      {
+        "stationName": "CC19  DT9",
+        "stationCode": "Botanic Gardens",
+        "towards": "Marina Bay / Dhoby Ghaut",
+        "escalators": [
+          "8"
+        ],
+        "twdLine": [
+          "3"
+        ],
+        "stairs": [
+          "8"
+        ],
+        "lifts": [
+          "DT:",
+          "8"
+        ]
+      },
+      {
+        "stationName": "CC19  DT9",
+        "stationCode": "Botanic Gardens",
+        "towards": "Harbourfront",
+        "escalators": [
+          "5"
+        ],
+        "twdLine": [
+          "10"
+        ],
+        "stairs": [
+          "5"
+        ],
+        "lifts": [
+          "DT:",
+          "5"
+        ]
+      },
+      {
+        "stationName": "CC20",
+        "stationCode": "Farrer Road",
+        "towards": "Marina Bay / Dhoby Ghaut",
+        "escalators": [
+          "4"
+        ],
+        "twdLine": [
+          "2"
+        ],
+        "stairs": [
+          "4"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "CC20",
+        "stationCode": "Farrer Road",
+        "towards": "Harbourfront",
+        "escalators": [
+          "9"
+        ],
+        "twdLine": [
+          "11"
+        ],
+        "stairs": [
+          "9"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "CC21",
+        "stationCode": "Holland Village",
+        "towards": "Marina Bay / Dhoby Ghaut",
+        "escalators": [
+          "5"
+        ],
+        "twdLine": [
+          "3"
+        ],
+        "stairs": [
+          "5"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "CC21",
+        "stationCode": "Holland Village",
+        "towards": "Harbourfront",
+        "escalators": [
+          "8"
+        ],
+        "twdLine": [
+          "10"
+        ],
+        "stairs": [
+          "8"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "CC22  EW21",
+        "stationCode": "Buona Vista",
+        "towards": "Marina Bay / Dhoby Ghaut",
+        "escalators": [
+          "5",
+          "8✅(出口)"
+        ],
+        "twdLine": [
+          "9"
+        ],
+        "stairs": [
+          "8"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "CC22  EW21",
+        "stationCode": "Buona Vista",
+        "towards": "Harbourfront",
+        "escalators": [
+          "5✅",
+          "8"
+        ],
+        "twdLine": [
+          "4"
+        ],
+        "stairs": [
+          "6"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "CC23",
+        "stationCode": "one-north",
+        "towards": "Marina Bay / Dhoby Ghaut",
+        "escalators": [
+          "5",
+          "8"
+        ],
+        "twdLine": [
+          "12"
+        ],
+        "stairs": [
+          "1",
+          "5",
+          "8"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "CC23",
+        "stationCode": "one-north",
+        "towards": "Harbourfront",
+        "escalators": [
+          "5",
+          "8"
+        ],
+        "twdLine": [
+          "1"
+        ],
+        "stairs": [
+          "5",
+          "8",
+          "12"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "CC24",
+        "stationCode": "Kent Ridge",
+        "towards": "Marina Bay / Dhoby Ghaut",
+        "escalators": [
+          "8"
+        ],
+        "twdLine": [
+          "11"
+        ],
+        "stairs": [
+          "8"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "CC24",
+        "stationCode": "Kent Ridge",
+        "towards": "Harbourfront",
+        "escalators": [
+          "5"
+        ],
+        "twdLine": [
+          "2"
+        ],
+        "stairs": [
+          "5"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "CC25",
+        "stationCode": "Haw Par Villa",
+        "towards": "Marina Bay / Dhoby Ghaut",
+        "escalators": [
+          "8"
+        ],
+        "twdLine": [
+          "9"
+        ],
+        "stairs": [
+          "8"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "CC25",
+        "stationCode": "Haw Par Villa",
+        "towards": "Harbourfront",
+        "escalators": [
+          "5"
+        ],
+        "twdLine": [
+          "4"
+        ],
+        "stairs": [
+          "5"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "CC26",
+        "stationCode": "Pasir Panjang",
+        "towards": "Marina Bay / Dhoby Ghaut",
+        "escalators": [
+          "6"
+        ],
+        "twdLine": [
+          "2"
+        ],
+        "stairs": [
+          "6"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "CC26",
+        "stationCode": "Pasir Panjang",
+        "towards": "Harbourfront",
+        "escalators": [
+          "7"
+        ],
+        "twdLine": [
+          "11"
+        ],
+        "stairs": [
+          "7"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "CC27",
+        "stationCode": "Labrador Park",
+        "towards": "Marina Bay / Dhoby Ghaut",
+        "escalators": [
+          "8"
+        ],
+        "twdLine": [
+          "11"
+        ],
+        "stairs": [
+          "8"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "CC27",
+        "stationCode": "Labrador Park",
+        "towards": "Harbourfront",
+        "escalators": [
+          "5"
+        ],
+        "twdLine": [
+          "2"
+        ],
+        "stairs": [
+          "5"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "CC28",
+        "stationCode": "Telok Blangah",
+        "towards": "Marina Bay / Dhoby Ghaut",
+        "escalators": [
+          "7"
+        ],
+        "twdLine": [
+          "10"
+        ],
+        "stairs": [
+          "7"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "CC28",
+        "stationCode": "Telok Blangah",
+        "towards": "Harbourfront",
+        "escalators": [
+          "6"
+        ],
+        "twdLine": [
+          "3"
+        ],
+        "stairs": [
+          "6"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "CC29  NE1",
+        "stationCode": "HarbourFront",
+        "towards": "Harbourfront",
+        "escalators": [
+          "2",
+          "11"
+        ],
+        "twdLine": [
+          "5"
+        ],
+        "stairs": [
+          "11"
+        ],
+        "lifts": [
+          "NE:",
+          "1"
+        ]
+      },
+      {
+        "stationName": "CE1",
+        "stationCode": "Bayfront",
+        "towards": "Marina Bay / Dhoby Ghaut",
+        "escalators": [
+          "3",
+          "12"
+        ],
+        "twdLine": [
+          "10"
+        ],
+        "stairs": [
+          "5",
+          "10",
+          "11"
+        ],
+        "lifts": [
+          "DG/MSP:",
+          "5",
+          "MBS:",
+          "12"
+        ]
+      },
+      {
+        "stationName": "CE1",
+        "stationCode": "Bayfront",
+        "towards": "Harbourfront",
+        "escalators": [
+          "1",
+          "7"
+        ],
+        "twdLine": [
+          "3"
+        ],
+        "stairs": [
+          "2",
+          "3"
+        ],
+        "lifts": [
+          "MSP:",
+          "4"
+        ]
+      },
+      {
+        "stationName": "CE2",
+        "stationCode": "Marina Bay",
+        "towards": "Marina Bay / Dhoby Ghaut",
+        "escalators": [
+          "1",
+          "12"
+        ],
+        "twdLine": [
+          "7"
+        ],
+        "stairs": [
+          "5"
+        ],
+        "lifts": []
+      }
+    ],
+    "DT": [
+      {
+        "stationName": "Code",
+        "stationCode": "Name",
+        "towards": "Destination",
+        "escalators": [
+          "Escalator(s)"
+        ],
+        "twdLine": [
+          "Lift(s)"
+        ],
+        "stairs": [
+          "Stair(s)"
+        ],
+        "lifts": [
+          "TWD",
+          "LINE"
+        ]
+      },
+      {
+        "stationName": "DT1 – BP6",
+        "stationCode": "Bukit Panjang",
+        "towards": "Bukit Panjang",
+        "escalators": [
+          "9"
+        ],
+        "twdLine": [
+          "4"
+        ],
+        "stairs": [
+          "8"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "DT1 – BP6",
+        "stationCode": "Bukit Panjang",
+        "towards": "Expo",
+        "escalators": [
+          "6"
+        ],
+        "twdLine": [
+          "2"
+        ],
+        "stairs": [
+          "6"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "DT2",
+        "stationCode": "Cashew",
+        "towards": "Bukit Panjang",
+        "escalators": [
+          "7"
+        ],
+        "twdLine": [
+          "11"
+        ],
+        "stairs": [
+          "7"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "DT2",
+        "stationCode": "Cashew",
+        "towards": "Expo",
+        "escalators": [
+          "6"
+        ],
+        "twdLine": [
+          "2"
+        ],
+        "stairs": [
+          "6"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "DT3",
+        "stationCode": "Hillview",
+        "towards": "Bukit Panjang",
+        "escalators": [
+          "5"
+        ],
+        "twdLine": [
+          "4"
+        ],
+        "stairs": [
+          "5"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "DT3",
+        "stationCode": "Hillview",
+        "towards": "Expo",
+        "escalators": [
+          "8"
+        ],
+        "twdLine": [
+          "9"
+        ],
+        "stairs": [
+          "8"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "DT4 Infill station",
+        "stationCode": "Hume",
+        "towards": "Bukit Panjang",
+        "escalators": [],
+        "twdLine": [],
+        "stairs": [],
+        "lifts": []
+      },
+      {
+        "stationName": "DT4 Infill station",
+        "stationCode": "Hume",
+        "towards": "Expo",
+        "escalators": [],
+        "twdLine": [],
+        "stairs": [],
+        "lifts": []
+      },
+      {
+        "stationName": "DT5",
+        "stationCode": "Beauty World",
+        "towards": "Bukit Panjang",
+        "escalators": [
+          "5"
+        ],
+        "twdLine": [
+          "4"
+        ],
+        "stairs": [
+          "5"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "DT5",
+        "stationCode": "Beauty World",
+        "towards": "Expo",
+        "escalators": [
+          "8"
+        ],
+        "twdLine": [
+          "9"
+        ],
+        "stairs": [
+          "8"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "DT6  CR15",
+        "stationCode": "King Albert Park",
+        "towards": "Bukit Panjang",
+        "escalators": [
+          "7"
+        ],
+        "twdLine": [
+          "10"
+        ],
+        "stairs": [
+          "7"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "DT6  CR15",
+        "stationCode": "King Albert Park",
+        "towards": "Expo",
+        "escalators": [
+          "6"
+        ],
+        "twdLine": [
+          "3"
+        ],
+        "stairs": [
+          "6"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "DT7",
+        "stationCode": "Sixth Avenue",
+        "towards": "Bukit Panjang",
+        "escalators": [
+          "8"
+        ],
+        "twdLine": [
+          "10"
+        ],
+        "stairs": [
+          "8"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "DT7",
+        "stationCode": "Sixth Avenue",
+        "towards": "Expo",
+        "escalators": [
+          "5"
+        ],
+        "twdLine": [
+          "3"
+        ],
+        "stairs": [
+          "5"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "DT8",
+        "stationCode": "Tan Kah Kee",
+        "towards": "Bukit Panjang",
+        "escalators": [
+          "5"
+        ],
+        "twdLine": [
+          "3"
+        ],
+        "stairs": [
+          "5"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "DT8",
+        "stationCode": "Tan Kah Kee",
+        "towards": "Expo",
+        "escalators": [
+          "8"
+        ],
+        "twdLine": [
+          "10"
+        ],
+        "stairs": [
+          "8"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "DT9  CC19",
+        "stationCode": "Botanic Gardens",
+        "towards": "Bukit Panjang",
+        "escalators": [
+          "10"
+        ],
+        "twdLine": [
+          "1"
+        ],
+        "stairs": [
+          "5",
+          "6"
+        ],
+        "lifts": [
+          "CC:",
+          "10"
+        ]
+      },
+      {
+        "stationName": "DT9  CC19",
+        "stationCode": "Botanic Gardens",
+        "towards": "Expo",
+        "escalators": [
+          "3"
+        ],
+        "twdLine": [
+          "12"
+        ],
+        "stairs": [
+          "7",
+          "8"
+        ],
+        "lifts": [
+          "CC:",
+          "3"
+        ]
+      },
+      {
+        "stationName": "DT10  TE11",
+        "stationCode": "Stevens",
+        "towards": "Bukit Panjang",
+        "escalators": [
+          "8"
+        ],
+        "twdLine": [],
+        "stairs": [],
+        "lifts": []
+      },
+      {
+        "stationName": "DT10  TE11",
+        "stationCode": "Stevens",
+        "towards": "Expo",
+        "escalators": [
+          "3"
+        ],
+        "twdLine": [],
+        "stairs": [],
+        "lifts": []
+      },
+      {
+        "stationName": "DT11 – NS21",
+        "stationCode": "Newton",
+        "towards": "Bukit Panjang",
+        "escalators": [
+          "5"
+        ],
+        "twdLine": [
+          "9"
+        ],
+        "stairs": [
+          "3"
+        ],
+        "lifts": [
+          "NS:",
+          "5"
+        ]
+      },
+      {
+        "stationName": "DT11 – NS21",
+        "stationCode": "Newton",
+        "towards": "Expo",
+        "escalators": [
+          "8"
+        ],
+        "twdLine": [
+          "4"
+        ],
+        "stairs": [
+          "10"
+        ],
+        "lifts": [
+          "NS:",
+          "8"
+        ]
+      },
+      {
+        "stationName": "DT12  NE7",
+        "stationCode": "Little India",
+        "towards": "Bukit Panjang",
+        "escalators": [
+          "5"
+        ],
+        "twdLine": [
+          "2"
+        ],
+        "stairs": [
+          "1",
+          "4"
+        ],
+        "lifts": [
+          "NE:",
+          "5"
+        ]
+      },
+      {
+        "stationName": "DT12  NE7",
+        "stationCode": "Little India",
+        "towards": "Expo",
+        "escalators": [
+          "8"
+        ],
+        "twdLine": [
+          "11"
+        ],
+        "stairs": [
+          "9",
+          "12"
+        ],
+        "lifts": [
+          "NE:",
+          "8"
+        ]
+      },
+      {
+        "stationName": "DT13",
+        "stationCode": "Rochor",
+        "towards": "Bukit Panjang",
+        "escalators": [
+          "5"
+        ],
+        "twdLine": [
+          "3"
+        ],
+        "stairs": [
+          "2"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "DT13",
+        "stationCode": "Rochor",
+        "towards": "Expo",
+        "escalators": [
+          "8"
+        ],
+        "twdLine": [
+          "10"
+        ],
+        "stairs": [
+          "11"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "DT14  EW12",
+        "stationCode": "Bugis",
+        "towards": "Bukit Panjang",
+        "escalators": [
+          "11"
+        ],
+        "twdLine": [
+          "7"
+        ],
+        "stairs": [
+          "6",
+          "12"
+        ],
+        "lifts": [
+          "EW:",
+          "6"
+        ]
+      },
+      {
+        "stationName": "DT14  EW12",
+        "stationCode": "Bugis",
+        "towards": "Expo",
+        "escalators": [
+          "2"
+        ],
+        "twdLine": [
+          "6"
+        ],
+        "stairs": [
+          "1",
+          "7"
+        ],
+        "lifts": [
+          "EW:",
+          "7"
+        ]
+      },
+      {
+        "stationName": "DT15  CC4",
+        "stationCode": "Promenade",
+        "towards": "Bukit Panjang",
+        "escalators": [
+          "6"
+        ],
+        "twdLine": [
+          "8"
+        ],
+        "stairs": [
+          "9"
+        ],
+        "lifts": [
+          "CC:",
+          "6"
+        ]
+      },
+      {
+        "stationName": "DT15  CC4",
+        "stationCode": "Promenade",
+        "towards": "Expo",
+        "escalators": [
+          "7"
+        ],
+        "twdLine": [
+          "5"
+        ],
+        "stairs": [
+          "3"
+        ],
+        "lifts": [
+          "CC:",
+          "7"
+        ]
+      },
+      {
+        "stationName": "DT16  CE1",
+        "stationCode": "Bayfront",
+        "towards": "Bukit Panjang",
+        "escalators": [
+          "1",
+          "7"
+        ],
+        "twdLine": [
+          "3"
+        ],
+        "stairs": [
+          "3"
+        ],
+        "lifts": [
+          "Expo/MBS:",
+          "4"
+        ]
+      },
+      {
+        "stationName": "DT16  CE1",
+        "stationCode": "Bayfront",
+        "towards": "Expo",
+        "escalators": [
+          "4",
+          "10"
+        ],
+        "twdLine": [
+          "10"
+        ],
+        "stairs": [
+          "5",
+          "10",
+          "11"
+        ],
+        "lifts": [
+          "BP/HF:",
+          "5"
+        ]
+      },
+      {
+        "stationName": "DT17",
+        "stationCode": "Downtown",
+        "towards": "Bukit Panjang",
+        "escalators": [
+          "2",
+          "9"
+        ],
+        "twdLine": [
+          "5"
+        ],
+        "stairs": [
+          "2",
+          "9"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "DT17",
+        "stationCode": "Downtown",
+        "towards": "Expo",
+        "escalators": [
+          "4",
+          "11"
+        ],
+        "twdLine": [
+          "7"
+        ],
+        "stairs": [
+          "4",
+          "11"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "DT18",
+        "stationCode": "Telok Ayer",
+        "towards": "Bukit Panjang",
+        "escalators": [
+          "6",
+          "9"
+        ],
+        "twdLine": [
+          "5"
+        ],
+        "stairs": [
+          "11"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "DT18",
+        "stationCode": "Telok Ayer",
+        "towards": "Expo",
+        "escalators": [
+          "4",
+          "7"
+        ],
+        "twdLine": [
+          "8"
+        ],
+        "stairs": [
+          "2"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "DT19  NE4",
+        "stationCode": "Chinatown",
+        "towards": "Bukit Panjang",
+        "escalators": [
+          "1",
+          "9",
+          "12"
+        ],
+        "twdLine": [
+          "1"
+        ],
+        "stairs": [
+          "1",
+          "3"
+        ],
+        "lifts": [
+          "NE:",
+          "9",
+          "12"
+        ]
+      },
+      {
+        "stationName": "DT19  NE4",
+        "stationCode": "Chinatown",
+        "towards": "Expo",
+        "escalators": [
+          "1",
+          "4",
+          "12"
+        ],
+        "twdLine": [
+          "7"
+        ],
+        "stairs": [
+          "12"
+        ],
+        "lifts": [
+          "NE:",
+          "1",
+          "4"
+        ]
+      },
+      {
+        "stationName": "DT20",
+        "stationCode": "Fort Canning",
+        "towards": "Bukit Panjang",
+        "escalators": [
+          "8"
+        ],
+        "twdLine": [
+          "11"
+        ],
+        "stairs": [
+          "11"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "DT20",
+        "stationCode": "Fort Canning",
+        "towards": "Expo",
+        "escalators": [
+          "5"
+        ],
+        "twdLine": [
+          "2"
+        ],
+        "stairs": [
+          "2"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "DT21",
+        "stationCode": "Bencoolen",
+        "towards": "Bukit Panjang",
+        "escalators": [
+          "2",
+          "11"
+        ],
+        "twdLine": [
+          "6",
+          "7"
+        ],
+        "stairs": [],
+        "lifts": []
+      },
+      {
+        "stationName": "DT21",
+        "stationCode": "Bencoolen",
+        "towards": "Expo",
+        "escalators": [
+          "2",
+          "11"
+        ],
+        "twdLine": [
+          "6",
+          "7"
+        ],
+        "stairs": [],
+        "lifts": []
+      },
+      {
+        "stationName": "DT22",
+        "stationCode": "Jalan Besar",
+        "towards": "Bukit Panjang",
+        "escalators": [
+          "6"
+        ],
+        "twdLine": [
+          "10"
+        ],
+        "stairs": [
+          "11"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "DT22",
+        "stationCode": "Jalan Besar",
+        "towards": "Expo",
+        "escalators": [
+          "7"
+        ],
+        "twdLine": [
+          "3"
+        ],
+        "stairs": [
+          "2"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "DT23",
+        "stationCode": "Bendemeer",
+        "towards": "Bukit Panjang",
+        "escalators": [
+          "6"
+        ],
+        "twdLine": [
+          "12"
+        ],
+        "stairs": [
+          "6"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "DT23",
+        "stationCode": "Bendemeer",
+        "towards": "Expo",
+        "escalators": [
+          "7"
+        ],
+        "twdLine": [
+          "1"
+        ],
+        "stairs": [
+          "7"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "DT24",
+        "stationCode": "Geylang Bahru",
+        "towards": "Bukit Panjang",
+        "escalators": [
+          "7"
+        ],
+        "twdLine": [
+          "9"
+        ],
+        "stairs": [
+          "7"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "DT24",
+        "stationCode": "Geylang Bahru",
+        "towards": "Expo",
+        "escalators": [
+          "6"
+        ],
+        "twdLine": [
+          "4"
+        ],
+        "stairs": [
+          "6"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "DT25",
+        "stationCode": "Mattar",
+        "towards": "Bukit Panjang",
+        "escalators": [
+          "6"
+        ],
+        "twdLine": [
+          "9"
+        ],
+        "stairs": [
+          "10"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "DT25",
+        "stationCode": "Mattar",
+        "towards": "Expo",
+        "escalators": [
+          "7"
+        ],
+        "twdLine": [
+          "4"
+        ],
+        "stairs": [
+          "3"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "DT26  CC10",
+        "stationCode": "MacPherson",
+        "towards": "Bukit Panjang",
+        "escalators": [
+          "1"
+        ],
+        "twdLine": [
+          "4"
+        ],
+        "stairs": [
+          "9"
+        ],
+        "lifts": [
+          "Expo:",
+          "1",
+          "CC:",
+          "9"
+        ]
+      },
+      {
+        "stationName": "DT26  CC10",
+        "stationCode": "MacPherson",
+        "towards": "Expo",
+        "escalators": [
+          "12"
+        ],
+        "twdLine": [
+          "12"
+        ],
+        "stairs": [
+          "3",
+          "12"
+        ],
+        "lifts": [
+          "BP:",
+          "12",
+          "CC:",
+          "3"
+        ]
+      },
+      {
+        "stationName": "DT27",
+        "stationCode": "Ubi",
+        "towards": "Bukit Panjang",
+        "escalators": [
+          "5"
+        ],
+        "twdLine": [
+          "3"
+        ],
+        "stairs": [
+          "8",
+          "10"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "DT27",
+        "stationCode": "Ubi",
+        "towards": "Expo",
+        "escalators": [
+          "8"
+        ],
+        "twdLine": [
+          "10"
+        ],
+        "stairs": [
+          "3",
+          "6"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "DT28",
+        "stationCode": "Kaki Bukit",
+        "towards": "Bukit Panjang",
+        "escalators": [
+          "5"
+        ],
+        "twdLine": [
+          "3"
+        ],
+        "stairs": [
+          "5"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "DT28",
+        "stationCode": "Kaki Bukit",
+        "towards": "Expo",
+        "escalators": [
+          "8"
+        ],
+        "twdLine": [
+          "10"
+        ],
+        "stairs": [
+          "8"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "DT29",
+        "stationCode": "Bedok North",
+        "towards": "Bukit Panjang",
+        "escalators": [
+          "8"
+        ],
+        "twdLine": [
+          "5"
+        ],
+        "stairs": [
+          "8"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "DT29",
+        "stationCode": "Bedok North",
+        "towards": "Expo",
+        "escalators": [
+          "5"
+        ],
+        "twdLine": [
+          "8"
+        ],
+        "stairs": [
+          "5"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "DT30",
+        "stationCode": "Bedok Reservoir",
+        "towards": "Bukit Panjang",
+        "escalators": [
+          "8"
+        ],
+        "twdLine": [
+          "5"
+        ],
+        "stairs": [
+          "8"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "DT30",
+        "stationCode": "Bedok Reservoir",
+        "towards": "Expo",
+        "escalators": [
+          "5"
+        ],
+        "twdLine": [
+          "8"
+        ],
+        "stairs": [
+          "5"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "DT31",
+        "stationCode": "Tampines West",
+        "towards": "Bukit Panjang",
+        "escalators": [
+          "5"
+        ],
+        "twdLine": [
+          "9"
+        ],
+        "stairs": [
+          "9"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "DT31",
+        "stationCode": "Tampines West",
+        "towards": "Expo",
+        "escalators": [
+          "8"
+        ],
+        "twdLine": [
+          "4"
+        ],
+        "stairs": [
+          "4"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "DT32 – EW2",
+        "stationCode": "Tampines",
+        "towards": "Bukit Panjang",
+        "escalators": [
+          "8"
+        ],
+        "twdLine": [
+          "3"
+        ],
+        "stairs": [
+          "3",
+          "10"
+        ],
+        "lifts": [
+          "EW:",
+          "8"
+        ]
+      },
+      {
+        "stationName": "DT32 – EW2",
+        "stationCode": "Tampines",
+        "towards": "Expo",
+        "escalators": [
+          "5"
+        ],
+        "twdLine": [
+          "10"
+        ],
+        "stairs": [
+          "3",
+          "10"
+        ],
+        "lifts": [
+          "EW:",
+          "5"
+        ]
+      },
+      {
+        "stationName": "DT33",
+        "stationCode": "Tampines East",
+        "towards": "Bukit Panjang",
+        "escalators": [
+          "8"
+        ],
+        "twdLine": [
+          "4"
+        ],
+        "stairs": [
+          "4"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "DT33",
+        "stationCode": "Tampines East",
+        "towards": "Expo",
+        "escalators": [
+          "5"
+        ],
+        "twdLine": [
+          "9"
+        ],
+        "stairs": [
+          "9"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "DT34",
+        "stationCode": "Upper Changi",
+        "towards": "Bukit Panjang",
+        "escalators": [
+          "8"
+        ],
+        "twdLine": [
+          "5"
+        ],
+        "stairs": [
+          "8"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "DT34",
+        "stationCode": "Upper Changi",
+        "towards": "Expo",
+        "escalators": [
+          "5"
+        ],
+        "twdLine": [
+          "8"
+        ],
+        "stairs": [
+          "5"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "DT35  CG1",
+        "stationCode": "Expo",
+        "towards": "Expo",
+        "escalators": [
+          "5",
+          "8"
+        ],
+        "twdLine": [
+          "8"
+        ],
+        "stairs": [
+          "5",
+          "8"
+        ],
+        "lifts": [
+          "EW:",
+          "8"
+        ]
+      }
+    ],
+    "TE": [
+      {
+        "stationName": "Code",
+        "stationCode": "Name",
+        "towards": "Destination",
+        "escalators": [
+          "Escalator(s)"
+        ],
+        "twdLine": [
+          "Lift(s)"
+        ],
+        "stairs": [
+          "Stair(s)"
+        ],
+        "lifts": [
+          "TWD",
+          "LINE"
+        ]
+      },
+      {
+        "stationName": "TE1 – RTS",
+        "stationCode": "Woodlands North",
+        "towards": "Woodlands North",
+        "escalators": [
+          "1",
+          "12",
+          "20"
+        ],
+        "twdLine": [
+          "5"
+        ],
+        "stairs": [
+          "11"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "TE2  NS9",
+        "stationCode": "Woodlands",
+        "towards": "Woodlands North",
+        "escalators": [
+          "4",
+          "12",
+          "17"
+        ],
+        "twdLine": [
+          "15"
+        ],
+        "stairs": [
+          "4",
+          "12",
+          "17"
+        ],
+        "lifts": [
+          "NS:",
+          "4"
+        ]
+      },
+      {
+        "stationName": "TE2  NS9",
+        "stationCode": "Woodlands",
+        "towards": "Gardens by the Bay",
+        "escalators": [
+          "4",
+          "9",
+          "17"
+        ],
+        "twdLine": [
+          "6",
+          "20"
+        ],
+        "stairs": [
+          "4",
+          "9",
+          "17"
+        ],
+        "lifts": [
+          "NS:",
+          "17"
+        ]
+      },
+      {
+        "stationName": "TE3",
+        "stationCode": "Woodlands South",
+        "towards": "Woodlands North",
+        "escalators": [
+          "8",
+          "13"
+        ],
+        "twdLine": [
+          "11"
+        ],
+        "stairs": [
+          "8",
+          "13"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "TE3",
+        "stationCode": "Woodlands South",
+        "towards": "Gardens by the Bay",
+        "escalators": [
+          "8",
+          "13"
+        ],
+        "twdLine": [
+          "10"
+        ],
+        "stairs": [
+          "8",
+          "13"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "TE4",
+        "stationCode": "Springleaf",
+        "towards": "Woodlands North",
+        "escalators": [
+          "8",
+          "12"
+        ],
+        "twdLine": [
+          "10",
+          "11"
+        ],
+        "stairs": [
+          "8",
+          "13"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "TE4",
+        "stationCode": "Springleaf",
+        "towards": "Gardens by the Bay",
+        "escalators": [
+          "8",
+          "12"
+        ],
+        "twdLine": [
+          "10",
+          "11"
+        ],
+        "stairs": [
+          "8",
+          "13"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "TE5",
+        "stationCode": "Lentor",
+        "towards": "Woodlands North",
+        "escalators": [
+          "8",
+          "12"
+        ],
+        "twdLine": [
+          "10",
+          "11"
+        ],
+        "stairs": [
+          "8",
+          "13"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "TE5",
+        "stationCode": "Lentor",
+        "towards": "Gardens by the Bay",
+        "escalators": [
+          "8",
+          "12"
+        ],
+        "twdLine": [
+          "10",
+          "11"
+        ],
+        "stairs": [
+          "8",
+          "13"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "TE6",
+        "stationCode": "Mayflower",
+        "towards": "Woodlands North",
+        "escalators": [
+          "5",
+          "16"
+        ],
+        "twdLine": [
+          "10",
+          "11"
+        ],
+        "stairs": [
+          "8",
+          "13"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "TE6",
+        "stationCode": "Mayflower",
+        "towards": "Gardens by the Bay",
+        "escalators": [
+          "5",
+          "16"
+        ],
+        "twdLine": [
+          "10",
+          "11"
+        ],
+        "stairs": [
+          "8",
+          "13"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "TE7  CR13",
+        "stationCode": "Bright Hill",
+        "towards": "Woodlands North",
+        "escalators": [
+          "1",
+          "8",
+          "12"
+        ],
+        "twdLine": [
+          "1",
+          "10"
+        ],
+        "stairs": [
+          "8",
+          "12"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "TE7  CR13",
+        "stationCode": "Bright Hill",
+        "towards": "Gardens by the Bay",
+        "escalators": [
+          "9",
+          "13",
+          "20"
+        ],
+        "twdLine": [
+          "11",
+          "20"
+        ],
+        "stairs": [
+          "9",
+          "13"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "TE8",
+        "stationCode": "Upper Thomson",
+        "towards": "Woodlands North",
+        "escalators": [
+          "8",
+          "12"
+        ],
+        "twdLine": [
+          "10",
+          "11"
+        ],
+        "stairs": [
+          "8",
+          "13"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "TE8",
+        "stationCode": "Upper Thomson",
+        "towards": "Gardens by the Bay",
+        "escalators": [
+          "8",
+          "12"
+        ],
+        "twdLine": [
+          "10",
+          "11"
+        ],
+        "stairs": [
+          "8",
+          "13"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "TE9  CC17",
+        "stationCode": "Caldecott",
+        "towards": "Woodlands North",
+        "escalators": [
+          "2",
+          "19"
+        ],
+        "twdLine": [
+          "10",
+          "11"
+        ],
+        "stairs": [
+          "8",
+          "13"
+        ],
+        "lifts": [
+          "CC:",
+          "2"
+        ]
+      },
+      {
+        "stationName": "TE9  CC17",
+        "stationCode": "Caldecott",
+        "towards": "Gardens by the Bay",
+        "escalators": [
+          "2",
+          "19"
+        ],
+        "twdLine": [
+          "10",
+          "11"
+        ],
+        "stairs": [
+          "8",
+          "13"
+        ],
+        "lifts": [
+          "CC:",
+          "19"
+        ]
+      },
+      {
+        "stationName": "TE11  DT10",
+        "stationCode": "Stevens",
+        "towards": "Woodlands North",
+        "escalators": [
+          "4",
+          "13",
+          "17"
+        ],
+        "twdLine": [
+          "4",
+          "7"
+        ],
+        "stairs": [
+          "1",
+          "7",
+          "13",
+          "17"
+        ],
+        "lifts": [
+          "BP:",
+          "13",
+          "Expo:",
+          "4"
+        ]
+      },
+      {
+        "stationName": "TE11  DT10",
+        "stationCode": "Stevens",
+        "towards": "Gardens by the Bay",
+        "escalators": [
+          "4",
+          "8",
+          "17"
+        ],
+        "twdLine": [
+          "15",
+          "16"
+        ],
+        "stairs": [
+          "4",
+          "8",
+          "14",
+          "20"
+        ],
+        "lifts": [
+          "BP:",
+          "8",
+          "Expo:",
+          "17"
+        ]
+      },
+      {
+        "stationName": "TE12",
+        "stationCode": "Napier",
+        "towards": "Woodlands North",
+        "escalators": [
+          "1",
+          "8",
+          "13",
+          "20"
+        ],
+        "twdLine": [
+          "10",
+          "11"
+        ],
+        "stairs": [
+          "10"
+        ],
+        "lifts": [
+          "GBTB:",
+          "8",
+          "13"
+        ]
+      },
+      {
+        "stationName": "TE12",
+        "stationCode": "Napier",
+        "towards": "Gardens by the Bay",
+        "escalators": [
+          "5",
+          "9",
+          "12",
+          "16"
+        ],
+        "twdLine": [
+          "10",
+          "11"
+        ],
+        "stairs": [
+          "12"
+        ],
+        "lifts": [
+          "WN:",
+          "9",
+          "12"
+        ]
+      },
+      {
+        "stationName": "TE13",
+        "stationCode": "Orchard Boulevard",
+        "towards": "Woodlands North",
+        "escalators": [
+          "3",
+          "18"
+        ],
+        "twdLine": [
+          "10",
+          "11"
+        ],
+        "stairs": [
+          "3",
+          "18"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "TE13",
+        "stationCode": "Orchard Boulevard",
+        "towards": "Gardens by the Bay",
+        "escalators": [
+          "3",
+          "18"
+        ],
+        "twdLine": [
+          "10",
+          "11"
+        ],
+        "stairs": [
+          "3",
+          "18"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "TE14  NS22",
+        "stationCode": "Orchard",
+        "towards": "Woodlands North",
+        "escalators": [
+          "3(NS→Exit",
+          "1)",
+          "9",
+          "12",
+          "18"
+        ],
+        "twdLine": [
+          "10",
+          "11"
+        ],
+        "stairs": [
+          "3",
+          "9",
+          "18"
+        ],
+        "lifts": [
+          "NS:",
+          "3",
+          "18"
+        ]
+      },
+      {
+        "stationName": "TE14  NS22",
+        "stationCode": "Orchard",
+        "towards": "Gardens by the Bay",
+        "escalators": [
+          "3",
+          "9",
+          "12",
+          "18"
+        ],
+        "twdLine": [
+          "10",
+          "11"
+        ],
+        "stairs": [
+          "3",
+          "12",
+          "18"
+        ],
+        "lifts": [
+          "NS:",
+          "3",
+          "18"
+        ]
+      },
+      {
+        "stationName": "TE15",
+        "stationCode": "Great World",
+        "towards": "Woodlands North",
+        "escalators": [
+          "3",
+          "18"
+        ],
+        "twdLine": [
+          "10",
+          "11"
+        ],
+        "stairs": [
+          "3",
+          "18"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "TE15",
+        "stationCode": "Great World",
+        "towards": "Gardens by the Bay",
+        "escalators": [
+          "3",
+          "18"
+        ],
+        "twdLine": [
+          "10",
+          "11"
+        ],
+        "stairs": [
+          "3",
+          "18"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "TE16",
+        "stationCode": "Havelock",
+        "towards": "Woodlands North",
+        "escalators": [
+          "3",
+          "18"
+        ],
+        "twdLine": [
+          "10",
+          "11"
+        ],
+        "stairs": [
+          "3",
+          "18"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "TE16",
+        "stationCode": "Havelock",
+        "towards": "Gardens by the Bay",
+        "escalators": [
+          "3",
+          "18"
+        ],
+        "twdLine": [
+          "10",
+          "11"
+        ],
+        "stairs": [
+          "3",
+          "18"
+        ],
+        "lifts": []
+      },
+      {
+        "stationName": "TE17  EW16  NE3",
+        "stationCode": "Outram Park",
+        "towards": "Woodlands North",
+        "escalators": [
+          "2",
+          "16"
+        ],
+        "twdLine": [
+          "14"
+        ],
+        "stairs": [
+          "2",
+          "11"
+        ],
+        "lifts": [
+          "EW:",
+          "2",
+          "11",
+          "16",
+          "NE:",
+          "12",
+          "19"
+        ]
+      },
+      {
+        "stationName": "TE17  EW16  NE3",
+        "stationCode": "Outram Park",
+        "towards": "Gardens by the Bay",
+        "escalators": [
+          "5✅",
+          "19"
+        ],
+        "twdLine": [
+          "5",
+          "9"
+        ],
+        "stairs": [
+          "10",
+          "18"
+        ],
+        "lifts": [
+          "EW:",
+          "5",
+          "10",
+          "19",
+          "NE:",
+          "2",
+          "9"
+        ]
+      },
+      {
+        "stationName": "TE18",
+        "stationCode": "Maxwell",
+        "towards": "Woodlands North",
+        "escalators": [
+          "3",
+          "18"
+        ],
+        "twdLine": [
+          "10"
+        ],
+        "stairs": [],
+        "lifts": [
+          "GBTB:",
+          "3",
+          "18"
+        ]
+      },
+      {
+        "stationName": "TE18",
+        "stationCode": "Maxwell",
+        "towards": "Gardens by the Bay",
+        "escalators": [
+          "9",
+          "12"
+        ],
+        "twdLine": [
+          "11"
+        ],
+        "stairs": [
+          "7",
+          "14"
+        ],
+        "lifts": [
+          "WN:",
+          "9",
+          "12"
+        ]
+      },
+      {
+        "stationName": "TE19",
+        "stationCode": "Shenton Way",
+        "towards": "Woodlands North",
+        "escalators": [
+          "5",
+          "16"
+        ],
+        "twdLine": [
+          "5",
+          "16"
+        ],
+        "stairs": [],
+        "lifts": []
+      },
+      {
+        "stationName": "TE19",
+        "stationCode": "Shenton Way",
+        "towards": "Gardens by the Bay",
+        "escalators": [
+          "5",
+          "16"
+        ],
+        "twdLine": [
+          "5",
+          "16"
+        ],
+        "stairs": [],
+        "lifts": []
+      },
+      {
+        "stationName": "TE 20",
+        "stationCode": "Marina Bay",
+        "towards": "Woodlands North",
+        "escalators": [
+          "7",
+          "9",
+          "17"
+        ],
+        "twdLine": [
+          "9"
+        ],
+        "stairs": [
+          "14"
+        ],
+        "lifts": [
+          "NS/CC:",
+          "7",
+          "GBTB:",
+          "9",
+          "17"
+        ]
+      },
+      {
+        "stationName": "TE 20",
+        "stationCode": "Marina Bay",
+        "towards": "Gardens by the Bay",
+        "escalators": [
+          "9",
+          "10"
+        ],
+        "twdLine": [
+          "10"
+        ],
+        "stairs": [
+          "3",
+          "10"
+        ],
+        "lifts": [
+          "NS/CC:",
+          "3",
+          "17",
+          "WN:",
+          "8",
+          "16"
+        ]
+      },
+      {
+        "stationName": "TE22",
+        "stationCode": "Gardens by the Bay",
+        "towards": "Gardens by the Bay",
+        "escalators": [
+          "9",
+          "12"
+        ],
+        "twdLine": [
+          "10",
+          "11"
+        ],
+        "stairs": [
+          "9",
+          "12"
+        ],
+        "lifts": [
+          "GBTB/Marina",
+          "Barrage:",
+          "9"
+        ]
+      }
+    ]
+  }
+}
