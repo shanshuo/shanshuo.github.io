@@ -19,8 +19,8 @@ OUT_PATH = MRT_DIR / "mrt-gates.json"
 HTML_PATH = MRT_DIR / "index.html"
 EMBED_PLACEHOLDER = "__EMBED_MRT_DATA__"
 
-# Column letters to our keys (A=Name, B=Code, C=Destination, D=Escalator, E=TWD LINE, F=Stair, G=Lift)
-COL_KEYS = ["Name", "Code", "Destination", "Escalator(s)", "TWD LINE", "Stair(s)", "Lift(s)"]
+# Standard output keys; Excel columns vary by sheet (header row defines mapping)
+OUTPUT_KEYS = ["Name", "Code", "Destination", "Escalator(s)", "TWD LINE", "Stair(s)", "Lift(s)"]
 
 
 def col_letter_to_index(ref):
@@ -53,19 +53,22 @@ def get_sheet_names(zipf):
 
 
 def parse_sheet_rows(zipf, sheet_path, shared_strings):
-    """Parse a worksheet into list of dicts, one per row, keys = COL_KEYS."""
+    """
+    Parse a worksheet: row 1 = header (column names), rest = data.
+    Returns list of dicts, each keyed by header name (e.g. Name, Code, Lift(s)).
+    Column order differs per sheet (EW has Name then Code; NS/NE/CC/DT/TE have Code then Name, etc.).
+    """
     with zipf.open(sheet_path) as f:
         root = ET.parse(f).getroot()
-    rows = []
+    all_rows = []
     for row_elem in root.findall(".//main:row", NS):
-        row_idx = int(row_elem.get("r", 0))
         row_dict = {}
         for c in row_elem.findall("main:c", NS):
             ref = c.get("r")
             if not ref:
                 continue
             col_idx = col_letter_to_index(ref)
-            if col_idx is None or col_idx >= len(COL_KEYS):
+            if col_idx is None or col_idx > 6:
                 continue
             t = c.get("t")
             v_el = c.find("main:v", NS)
@@ -77,34 +80,51 @@ def parse_sheet_rows(zipf, sheet_path, shared_strings):
                     row_dict[col_idx] = ""
             else:
                 row_dict[col_idx] = v.strip() if v else ""
-        # Build full row list (0..6), empty string for missing cells
-        row_list = [row_dict.get(i, "") for i in range(len(COL_KEYS))]
-        rows.append(row_list)
-    return rows
+        # Build list of 7 values in order A..G
+        row_list = [row_dict.get(i, "") for i in range(7)]
+        all_rows.append(row_list)
+    if not all_rows:
+        return []
+    header_row = all_rows[0]
+    data_rows = all_rows[1:]
+    # Build list of dicts keyed by header name (so column order per sheet is correct)
+    result = []
+    for row_list in data_rows:
+        record = {}
+        for col_idx, header_name in enumerate(header_row):
+            if col_idx < len(row_list):
+                record[header_name] = row_list[col_idx] or ""
+        result.append(record)
+    return result
 
 
 def gate_str_to_list(s):
-    """Convert cell value like '7 18' or '13' to list of strings ['7','18'] or ['13']."""
+    """Convert cell value like '7 18' or '13' or 'EW: 13\\nTE: 19' to list of strings."""
     if not s or not str(s).strip():
         return []
-    return [x.strip() for x in str(s).split() if x.strip()]
+    # Split by any whitespace (space, newline) and filter empty
+    return [x.strip() for x in re.split(r"[\s\n]+", str(s)) if x.strip()]
 
 
-def sheet_rows_to_records(rows):
-    """Convert parsed rows (list of 7-tuples) to list of dicts with carried Name/Code."""
-    if not rows:
-        return []
-    # Skip header row
-    data_rows = rows[1:] if rows[0][0] == "Name" else rows
+def sheet_rows_to_records(row_dicts):
+    """Convert list of row dicts (keyed by header name) to list of records with carried Name/Code."""
     records = []
     last_name, last_code = "", ""
-    for row in data_rows:
-        name, code, dest, esc, twd, stair, lift = row
+    for row in row_dicts:
+        name = (row.get("Name") or "").strip()
+        code = (row.get("Code") or "").strip()
+        dest = (row.get("Destination") or "").strip()
+        esc = (row.get("Escalator(s)") or "").strip()
+        twd = (row.get("TWD LINE") or "").strip()
+        stair = (row.get("Stair(s)") or "").strip()
+        lift = (row.get("Lift(s)") or "").strip()
         if name:
             last_name = name
         if code:
             last_code = code
-        # Skip fully empty rows
+        # Skip header-like rows (e.g. "Name" / "Code" in first columns)
+        if last_name in ("Name", "Code") and last_code in ("Name", "Code"):
+            continue
         if not dest and not esc and not twd and not stair and not lift:
             continue
         records.append({
@@ -130,10 +150,10 @@ def main():
             # sheet1.xml = first sheet, sheet2.xml = second, etc.
             sheet_path = f"xl/worksheets/sheet{i + 1}.xml"
             try:
-                rows = parse_sheet_rows(z, sheet_path, shared_strings)
+                row_dicts = parse_sheet_rows(z, sheet_path, shared_strings)
             except KeyError:
                 continue
-            out["lines"][name] = sheet_rows_to_records(rows)
+            out["lines"][name] = sheet_rows_to_records(row_dicts)
     json_str = json.dumps(out, ensure_ascii=False)
     OUT_PATH.write_text(json.dumps(out, indent=2, ensure_ascii=False), encoding="utf-8")
     print(f"Wrote {OUT_PATH}")
