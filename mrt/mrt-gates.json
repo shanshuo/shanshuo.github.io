@@ -1822,8 +1822,7 @@
         "stationCode": "NS20",
         "towards": "Jurong East",
         "escalators": [
-          "11",
-          "14"
+          "11"
         ],
         "twdLine": [],
         "stairs": [
@@ -1876,7 +1875,10 @@
           "8",
           "15"
         ],
-        "twdLine": [],
+        "twdLine": [
+          "DT:",
+          "8"
+        ],
         "stairs": [
           "8",
           "15"
@@ -5302,8 +5304,7 @@
         "stationCode": "TE14  NS22",
         "towards": "Woodlands North",
         "escalators": [
-          "3(NS→Exit",
-          "1)",
+          "3(NS→Exit1)",
           "9",
           "12",
           "18"
