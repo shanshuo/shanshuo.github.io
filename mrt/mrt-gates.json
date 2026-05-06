@@ -2088,6 +2088,7 @@
           "15"
         ],
         "twdLine": [
+          "PR/JE:",
           "5",
           "20"
         ],
@@ -3294,7 +3295,7 @@
         "stationCode": "CC17  TE9",
         "towards": "Marina Bay / Dhoby Ghaut",
         "escalators": [
-          "6"
+          "5"
         ],
         "twdLine": [
           "TE:",
