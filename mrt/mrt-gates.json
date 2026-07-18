@@ -5223,7 +5223,6 @@
         "stationCode": "TE12",
         "towards": "Woodlands North",
         "escalators": [
-          "1",
           "8",
           "13",
           "20"
