@@ -1718,7 +1718,8 @@
         ],
         "twdLine": [
           "CC:",
-          "17"
+          "17",
+          "6"
         ],
         "stairs": [
           "5",
@@ -3461,12 +3462,12 @@
         "stationCode": "CC22  EW21",
         "towards": "Harbourfront",
         "escalators": [
-          "5✅",
+          "5",
           "8"
         ],
         "twdLine": [],
         "stairs": [
-          "6"
+          "6✅"
         ],
         "lifts": [
           "4"
